@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mbassa/Unreal/Prototype/Content/Blueprints/BP_Spline.uasset",
+				"C:/Users/mbassa/Unreal/Prototype/Content/__ExternalActors__/Levels/PrototypeLevel/3/5S/YVKUQ99Q4S627T4HRDMQ2J.uasset",
+				"C:/Users/mbassa/Unreal/Prototype/Content/Levels/PrototypeLevel.umap"
+			]
+		}
+	]
+}
