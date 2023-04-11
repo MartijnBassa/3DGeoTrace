@@ -1,0 +1,59 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/PrototypeLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:36894B2F4C12CD7E85B3D9BD6CBEB535 BaseClass:/Game/Blueprints/Test.Test_C NativeClass:/Script/Engine.Actor Name:Test_C_UAID_846993C9AC3DF37501_1206397538 Label:Test SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=410.000 Y=-290.000 Z=-60.000), Max=(X=410.000 Y=-290.000 Z=-60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 Parent:69D30AFF464D380B867B5F91D0F2F1F3
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:69D30AFF464D380B867B5F91D0F2F1F3 BaseClass:/Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool_C NativeClass:/Script/Engine.Actor Name:BP_SplineLayoutTool_C_UAID_846993C9AC3DE07501_1580712144 Label:BP_SplineLayoutTool SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=-297.407 Z=-67.407), Max=(X=850.000 Y=-182.593 Z=47.407) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:36894B2F4C12CD7E85B3D9BD6CBEB535 BaseClass:/Game/Blueprints/Test.Test_C NativeClass:/Script/Engine.Actor Name:Test_C_UAID_846993C9AC3DF37501_1206397538 Label:Test SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=410.000 Y=-290.000 Z=-60.000), Max=(X=410.000 Y=-290.000 Z=-60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 Parent:69D30AFF464D380B867B5F91D0F2F1F3
+ |   |   |   |- Guid:69D30AFF464D380B867B5F91D0F2F1F3 BaseClass:/Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool_C NativeClass:/Script/Engine.Actor Name:BP_SplineLayoutTool_C_UAID_846993C9AC3DE07501_1580712144 Label:BP_SplineLayoutTool SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=-297.407 Z=-67.407), Max=(X=850.000 Y=-182.593 Z=47.407) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=400.000 Y=-297.407 Z=-67.407), Max=(X=850.000 Y=-182.593 Z=47.407)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/PrototypeLevel
+----------------------------------------------------------------------------------------------------------------
+PrototypeLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 17 
+
+----------------------------------------------------------------------------------------------------------------
+PrototypeLevel - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=400.000 Y=-297.407 Z=-67.407), Max=(X=850.000 Y=-182.593 Z=47.407)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count    2 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y-1
+ |   |- Actor Count: 2
+ |   |- MinMaxZ: X=-67.407 Y=47.407
+ |   |- Actor Path: /Game/Levels/PrototypeLevel.PrototypeLevel:PersistentLevel.Test_C_UAID_846993C9AC3DF37501_1206397538
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/PrototypeLevel/7/ON/6XCKQESPNC98L23XO8OX58
+ |   |- Actor Path: /Game/Levels/PrototypeLevel.PrototypeLevel:PersistentLevel.BP_SplineLayoutTool_C_UAID_846993C9AC3DE07501_1580712144
+ |   |- Actor Package: /Game/__ExternalActors__/Levels/PrototypeLevel/D/QC/8K40YUFNBSGAP94ITBOVEQ
+[+] Content of Grid Level 1
+
