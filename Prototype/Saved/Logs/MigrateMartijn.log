@@ -2197,3 +2197,1153 @@ BP_SplineLayoutTool
 [2023.04.24-13.23.02:114][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
 [2023.04.24-13.23.02:114][ 20]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
 [2023.04.24-13.23.02:114][ 20]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Untitled.Untitled
+[2023.04.24-13.24.50:662][342]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.24.50:786][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.04.24-13.24.51:633][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.24.51:756][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.24.51:794][378]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.24.51:797][378]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutToolFCBB6CB245D0DF08AC4F6F9EBCF18D80.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.24.51:826][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 12.1 sec)
+[2023.04.24-13.24.51:835][378]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.24.51:835][378]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.25.23:948][591]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit 0 entirely.
+[2023.04.24-13.25.30:664][922]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.25.30:782][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.24-13.25.31:433][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.25.31:556][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.25.31:595][941]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.25.31:597][941]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool4594A30C4551EE19F81D58B4DBFF6A17.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.25.31:628][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 12.3 sec)
+[2023.04.24-13.25.31:637][941]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.25.31:638][941]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.27.51:146][992]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.27.51:399][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.04.24-13.27.51:897][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.27.52:000][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.27.52:046][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.27.52:048][  8]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool527BA847428F9A8C477971B4DA344E53.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.27.52:077][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 12.5 sec)
+[2023.04.24-13.27.52:085][  8]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.27.52:085][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.28.42:112][850]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.28.42:344][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.04.24-13.28.42:716][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.28.42:836][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.28.42:875][861]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.28.42:877][861]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool05BB4B2547C373E477939DB4ACF39B2B.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.28.42:908][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 12.7 sec)
+[2023.04.24-13.28.42:918][861]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.28.42:918][861]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.29.07:847][720]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.29.08:027][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.04.24-13.29.14:585][922]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.29.14:727][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.24-13.29.15:156][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.29.15:269][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.29.15:310][934]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.29.15:313][934]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutToolC6F802D64072A91D07BC168918907F9C.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.29.15:346][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 12.9 sec)
+[2023.04.24-13.29.15:359][934]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.29.15:359][934]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.29.24:949][265]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.29.25:090][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.24-13.29.25:623][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.29.25:753][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.29.25:794][280]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.29.25:796][280]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool07F6995A4191A19ED2D7ECBFCFA495CE.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.29.25:826][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 13.1 sec)
+[2023.04.24-13.29.25:835][280]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.29.25:835][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.30.59:594][429]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.30.59:767][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.24-13.31.00:268][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.31.00:386][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.31.00:427][444]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.31.00:430][444]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool7A93EC844A0C0941EDA8DDBFDB0485BE.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.31.00:461][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 13.3 sec)
+[2023.04.24-13.31.00:473][444]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.31.00:473][444]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.31.33:376][602]LogEditorTransaction: Undo Create Pin Link
+[2023.04.24-13.31.33:787][608]LogEditorTransaction: Undo Create Pin Link
+[2023.04.24-13.31.34:253][620]LogEditorTransaction: Undo Move Node
+[2023.04.24-13.31.34:963][640]LogEditorTransaction: Undo Add Node
+[2023.04.24-13.31.52:679][270]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.31.52:837][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.24-13.31.53:231][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.31.53:351][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.31.53:389][281]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.31.53:391][281]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool2FE1F4DA406CEE252A3914B373579E9F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.31.53:423][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 13.5 sec)
+[2023.04.24-13.31.53:432][281]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.31.53:432][281]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.32.17:093][263]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.32.17:287][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.24-13.32.22:730][484]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.32.22:847][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.04.24-13.32.23:368][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.32.23:466][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.32.23:508][498]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.32.23:511][498]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutToolB43191E94CDD17EDC1A90EAC89DEBFCA.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.32.23:540][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 13.7 sec)
+[2023.04.24-13.32.23:552][498]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.32.23:552][498]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.34.56:808][343]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_SplineLayoutTool] ([2] browsable assets)...
+[2023.04.24-13.34.56:808][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SplineLayoutTool]
+[2023.04.24-13.34.56:843][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_SplineLayoutTool_Auto0
+[2023.04.24-13.34.56:851][343]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool_Auto0FFD639B34EC62694070AD9B453026302.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/Blueprints/BP_SplineLayoutTool_Auto0.uasset'
+[2023.04.24-13.34.56:855][343]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.04.24-13.35.39:756][368]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.35.40:136][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.04.24-13.35.40:758][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.35.40:882][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.35.40:922][388]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.35.40:924][388]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool72A17F9443809B1D31448DB791C55091.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.35.40:955][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 13.9 sec)
+[2023.04.24-13.35.40:966][388]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.35.40:967][388]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.36.45:823][701]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.36.46:017][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.24-13.37.17:659][493]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.37.17:786][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.04.24-13.37.18:196][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.37.18:315][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.37.18:359][507]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.37.18:362][507]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool5C0C465F402012FE702D4DA9474E2CEE.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.37.18:390][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 14.1 sec)
+[2023.04.24-13.37.18:399][507]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.37.18:399][507]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.38.53:654][387]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.38.53:840][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.24-13.39.00:121][599]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.39.00:242][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.24-13.41.33:673][424]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.41.33:793][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.24-13.41.34:423][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.41.34:549][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.41.34:591][442]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.41.34:594][442]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool14844C4247340A4A48D3839CD21B6C3B.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.41.34:623][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 14.3 sec)
+[2023.04.24-13.41.34:634][442]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.41.34:634][442]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.46.50:850][847]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_SplineLayoutTool] ([2] browsable assets)...
+[2023.04.24-13.46.50:850][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SplineLayoutTool]
+[2023.04.24-13.46.50:889][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_SplineLayoutTool_Auto1
+[2023.04.24-13.46.50:893][847]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool_Auto1E2080C374404C57D3F8EC395FC0C0047.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/Blueprints/BP_SplineLayoutTool_Auto1.uasset'
+[2023.04.24-13.46.50:897][847]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.04.24-13.47.52:146][414]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.47.52:277][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.04.24-13.47.52:882][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.47.53:004][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.47.53:046][431]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.47.53:049][431]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutToolB1B4426443CF42467D8E9AA97612EF7B.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.47.53:078][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 14.5 sec)
+[2023.04.24-13.47.53:088][431]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.47.53:088][431]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.48.10:093][ 81]Cmd: DELETE
+[2023.04.24-13.48.10:093][ 81]Cmd: ACTOR DELETE
+[2023.04.24-13.48.10:097][ 81]LogEditorActor: Deleted Actor: InstanciatedInsightObject_C
+[2023.04.24-13.48.10:099][ 81]LogEditorActor: Deleted Actor: InstanciatedInsightObject_C
+[2023.04.24-13.48.10:100][ 81]LogEditorActor: Deleted Actor: InstanciatedInsightObject_C
+[2023.04.24-13.48.10:166][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.04.24-13.48.10:175][ 81]LogEditorActor: Deleted 3 Actors (0.081 secs)
+[2023.04.24-13.49.17:163][586]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.49.17:306][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.24-13.49.18:099][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.49.18:224][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.49.18:261][609]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.49.18:263][609]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutToolD3E8C26C451D2769C2B0D2B5DD7732EB.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.49.18:295][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 14.7 sec)
+[2023.04.24-13.49.18:306][609]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.49.18:306][609]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.50.24:890][334]LogDerivedDataCache: C:/Users/mbassa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.121 and deleted 0 files with total size 0 MiB. Scanned 5937 files in 5885 folders with total size 3053 MiB.
+[2023.04.24-13.51.14:203][589]LogEditorTransaction: Undo Create Pin Link
+[2023.04.24-13.51.14:540][593]LogEditorTransaction: Undo Move Node
+[2023.04.24-13.51.15:033][605]LogEditorTransaction: Undo Add Node
+[2023.04.24-13.51.22:480][952]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.51.22:612][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.04.24-13.53.10:097][413]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.53.10:217][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.24-13.53.10:750][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.53.10:876][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.53.10:915][432]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.53.10:917][432]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool642CB61F4AED115FF1A36E8713A7843B.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.53.10:951][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 14.9 sec)
+[2023.04.24-13.53.10:964][432]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.53.10:964][432]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.53.27:928][ 44]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.53.28:057][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.04.24-13.55.15:132][733]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.55.15:375][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.24-13.55.15:707][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.55.15:823][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.55.15:864][741]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.55.15:867][741]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool63E5D6654B9EC85BFEEBC59291420C0B.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.55.15:898][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 15.0 sec)
+[2023.04.24-13.55.15:909][741]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.55.15:909][741]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.55.49:717][576]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.04.24-13.55.50:035][577]LogAutomationController: Ignoring very large delta of 3.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.24-13.55.58:093][735]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.24-13.55.58:150][735]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.24-13.56.51:464][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_SplineLayoutTool] ([2] browsable assets)...
+[2023.04.24-13.56.51:464][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SplineLayoutTool]
+[2023.04.24-13.56.51:502][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_SplineLayoutTool_Auto2
+[2023.04.24-13.56.51:505][313]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool_Auto2D43758434EC16FF13612F490537B0818.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/Blueprints/BP_SplineLayoutTool_Auto2.uasset'
+[2023.04.24-13.56.51:510][313]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.04.24-13.56.58:931][425]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.56.59:293][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.04.24-13.56.59:651][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.56.59:774][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.56.59:814][436]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.56.59:817][436]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool8677388C4AB739C280478AB582AF5E18.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.56.59:847][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 15.2 sec)
+[2023.04.24-13.56.59:861][436]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.56.59:861][436]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.57.39:232][807]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.57.39:376][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.04.24-13.57.39:899][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.57.40:023][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-13.57.40:062][829]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-13.57.40:065][829]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutToolD1EA9D974F565EAA96E580B7D6114AB0.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-13.57.40:096][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 15.4 sec)
+[2023.04.24-13.57.40:108][829]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-13.57.40:108][829]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-13.58.55:426][937]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit 0 entirely.
+[2023.04.24-13.59.25:081][130]BlueprintLog: New page: Compile InstanciatedInsightObject
+[2023.04.24-13.59.25:207][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.24-13.59.26:541][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-13.59.26:656][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InstanciatedInsightObject" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset" SILENT=true
+[2023.04.24-13.59.26:680][182]LogSavePackage: Moving output files for package: /Game/Blueprints/InstanciatedInsightObject
+[2023.04.24-13.59.26:683][182]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObject4580A6694F7EB875FAA24FBA65CB1D9C.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset'
+[2023.04.24-13.59.26:714][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 15.6 sec)
+[2023.04.24-13.59.26:723][182]AssetCheck: New page: Asset Save: InstanciatedInsightObject
+[2023.04.24-13.59.26:723][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/InstanciatedInsightObject.InstanciatedInsightObject
+[2023.04.24-13.59.51:697][168]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-13.59.51:822][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.04.24-14.01.49:069][638]LogEditorTransaction: Undo Rename Parameter
+[2023.04.24-14.01.49:629][647]LogEditorTransaction: Undo Add In Parameter
+[2023.04.24-14.01.50:222][664]LogEditorTransaction: Undo Move Nodes
+[2023.04.24-14.03.05:328][794]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-14.03.05:539][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.24-14.03.06:099][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.03.06:221][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-14.03.06:258][809]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-14.03.06:261][809]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool203AE14147134704A5F946A9737678F9.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-14.03.06:293][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 15.8 sec)
+[2023.04.24-14.03.06:305][809]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-14.03.06:305][809]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-14.05.42:457][170]LogViewport: Scene viewport resized to 1084x691, mode Windowed.
+[2023.04.24-14.07.14:656][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_SplineLayoutTool] ([2] browsable assets)...
+[2023.04.24-14.07.14:656][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SplineLayoutTool]
+[2023.04.24-14.07.14:699][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_SplineLayoutTool_Auto3
+[2023.04.24-14.07.14:702][412]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool_Auto37CF481884F6FC5B9FCDC28A62FEF6291.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/Blueprints/BP_SplineLayoutTool_Auto3.uasset'
+[2023.04.24-14.07.14:707][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InstanciatedInsightObject] ([2] browsable assets)...
+[2023.04.24-14.07.14:707][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InstanciatedInsightObject]
+[2023.04.24-14.07.14:727][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/InstanciatedInsightObject_Auto3
+[2023.04.24-14.07.14:734][412]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObject_Auto3328A34AC46F673C7F4A15093D383F14E.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/Blueprints/InstanciatedInsightObject_Auto3.uasset'
+[2023.04.24-14.07.14:739][412]LogFileHelpers: Auto-saving content packages took 0.084
+[2023.04.24-14.09.24:750][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.24-14.09.25:660][561]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-14.09.25:710][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.09.25:790][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-14.09.25:857][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.24-14.09.25:886][561]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.04.24-14.09.25:889][561]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_Bgt9B27137A4F0340DFAD51AABF721F17CE.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.04.24-14.09.25:934][561]LogFileHelpers: Saving map 'Bag_Bgt' took 0.146
+[2023.04.24-14.09.25:935][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-14.09.25:941][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Untitled" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-14.09.26:006][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.24-14.09.26:045][561]LogSavePackage: Moving output files for package: /Game/Levels/Untitled
+[2023.04.24-14.09.26:048][561]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UntitledCD4DE15D4B701D2D0C6DA79BE9E2811C.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Untitled.umap'
+[2023.04.24-14.09.26:058][561]LogFileHelpers: Saving map 'Untitled' took 0.123
+[2023.04.24-14.09.26:058][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-14.09.26:096][561]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-14.09.26:099][561]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool02BC56CE4D73D177A4096F9238382C43.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-14.09.26:105][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InstanciatedInsightObject" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset" SILENT=true
+[2023.04.24-14.09.26:125][561]LogSavePackage: Moving output files for package: /Game/Blueprints/InstanciatedInsightObject
+[2023.04.24-14.09.26:128][561]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObjectB98A80094686410E28C56AAA47F96E78.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset'
+[2023.04.24-14.09.26:160][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 449 ms (total: 16.3 sec)
+[2023.04.24-14.09.26:176][561]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-14.09.26:176][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-14.09.26:176][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/InstanciatedInsightObject.InstanciatedInsightObject
+[2023.04.24-14.09.26:176][561]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.04.24-14.09.26:176][561]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Untitled.Untitled
+[2023.04.24-14.09.29:865][676]Cmd: DELETE
+[2023.04.24-14.09.29:865][676]Cmd: ACTOR DELETE
+[2023.04.24-14.09.29:868][676]LogEditorActor: Deleted Actor: InstanciatedInsightObject_C
+[2023.04.24-14.09.29:932][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.24-14.09.29:941][676]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2023.04.24-14.14.09:993][571]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-14.14.10:235][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.24-14.14.10:565][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.14.10:644][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-14.14.10:688][585]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-14.14.10:691][585]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool5BFC3B6648B13051537FF1B84C9F79D1.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-14.14.10:720][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 16.4 sec)
+[2023.04.24-14.14.10:731][585]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-14.14.10:731][585]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-14.14.53:539][181]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-14.14.53:552][181]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\Blueprints\BP_SplineLayoutTool.uasset: [Compiler] This blueprint (self) is not a InstanciatedInsightObject_C, therefore ' Target ' must have a connection.
+[2023.04.24-14.14.53:574][181]PIE: Warning: AttachTo: '/Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.BP_SplineLayoutTool_C_1.BillboardComponent_0' is not static  (in blueprint "BP_SplineLayoutTool"), cannot attach '/Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.InstanciatedInsightObject_C_31.DefaultSceneRoot' which is static to it. Aborting.
+[2023.04.24-14.14.53:736][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.24-14.14.53:742][181]PIE: Warning: AttachTo: '/Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.BP_SplineLayoutTool_C_1.BillboardComponent_1' is not static  (in blueprint "BP_SplineLayoutTool"), cannot attach '/Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.InstanciatedInsightObject_C_31.DefaultSceneRoot' which is static to it. Aborting.
+[2023.04.24-14.14.53:768][181]PIE: Warning: AttachTo: '/Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.BP_SplineLayoutTool_C_1.BillboardComponent_2' is not static  (in blueprint "BP_SplineLayoutTool"), cannot attach '/Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.InstanciatedInsightObject_C_31.DefaultSceneRoot' which is static to it. Aborting.
+[2023.04.24-14.14.54:062][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.14.54:148][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-14.14.54:188][194]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-14.14.54:190][194]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutToolDCE0A8D14FF2C13040C7B88BDCC18DBD.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-14.14.54:223][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 16.6 sec)
+[2023.04.24-14.14.54:234][194]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-14.14.54:234][194]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-14.14.57:605][329]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-14.14.57:730][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.04.24-14.14.58:131][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.14.58:247][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-14.14.58:289][339]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-14.14.58:291][339]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool5F447F0841E2F9CA318726B96BC745EC.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-14.14.58:321][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 16.8 sec)
+[2023.04.24-14.14.58:333][339]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-14.14.58:333][339]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-14.15.26:290][278]BlueprintLog: New page: Compile BP_SplineLayoutTool
+[2023.04.24-14.15.26:438][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.24-14.15.26:734][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.15.26:865][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-14.15.26:904][285]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-14.15.26:908][285]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutToolE05CA614494A0CAEC5D800B918021B79.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-14.15.26:939][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 17.0 sec)
+[2023.04.24-14.15.26:947][285]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-14.15.26:947][285]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-14.22.29:455][ 47]LogViewport: Scene viewport resized to 1084x693, mode Windowed.
+[2023.04.24-14.22.29:686][ 51]LogShaderCompilers: Display: ================================================
+[2023.04.24-14.22.29:686][ 51]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-14.22.29:686][ 51]LogShaderCompilers: Display: Total job queries 113, among them cache hits 14 (12.39%)
+[2023.04.24-14.22.29:686][ 51]LogShaderCompilers: Display: Tracking 99 distinct input hashes that result in 84 distinct outputs (84.85%)
+[2023.04.24-14.22.29:686][ 51]LogShaderCompilers: Display: RAM used: 0.88 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.04.24-14.22.29:686][ 51]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-14.22.29:687][ 51]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.24-14.22.29:687][ 51]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.24-14.22.29:687][ 51]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.24-14.22.29:687][ 51]LogShaderCompilers: Display: ================================================
+[2023.04.24-14.23.59:227][424]BlueprintLog: New page: Compile InstanciatedInsightObject
+[2023.04.24-14.23.59:386][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.04.24-14.24.44:914][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InstanciatedInsightObject] ([2] browsable assets)...
+[2023.04.24-14.24.44:914][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InstanciatedInsightObject]
+[2023.04.24-14.24.44:934][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/InstanciatedInsightObject_Auto4
+[2023.04.24-14.24.44:941][626]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObject_Auto44AFA28C74404E1AE7D9B228C320DD1AC.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/Blueprints/InstanciatedInsightObject_Auto4.uasset'
+[2023.04.24-14.24.44:945][626]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.04.24-14.24.45:992][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.24.46:171][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SplineLayoutTool" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset" SILENT=true
+[2023.04.24-14.24.46:214][650]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SplineLayoutTool
+[2023.04.24-14.24.46:217][650]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_SplineLayoutTool0C68A645461ADCC73CF030A190F8D69A.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset'
+[2023.04.24-14.24.46:282][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 17.3 sec)
+[2023.04.24-14.24.46:295][650]AssetCheck: New page: Asset Save: BP_SplineLayoutTool
+[2023.04.24-14.24.46:295][650]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SplineLayoutTool.BP_SplineLayoutTool
+[2023.04.24-14.24.48:400][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.04.24-14.24.49:358][699]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-14.24.49:409][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.24.49:472][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-14.24.49:540][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.04.24-14.24.49:574][699]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.04.24-14.24.49:577][699]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_Bgt5EE034264016D5E45CDC55B843BF3B57.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.04.24-14.24.49:624][699]LogFileHelpers: Saving map 'Bag_Bgt' took 0.155
+[2023.04.24-14.24.49:625][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-14.24.49:631][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Untitled" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-14.24.49:696][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.24-14.24.49:736][699]LogSavePackage: Moving output files for package: /Game/Levels/Untitled
+[2023.04.24-14.24.49:739][699]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UntitledC2AC3E734C2CD0A3AB1B359E3600532C.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Untitled.umap'
+[2023.04.24-14.24.49:751][699]LogFileHelpers: Saving map 'Untitled' took 0.126
+[2023.04.24-14.24.49:751][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InstanciatedInsightObject" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset" SILENT=true
+[2023.04.24-14.24.49:768][699]LogSavePackage: Moving output files for package: /Game/Blueprints/InstanciatedInsightObject
+[2023.04.24-14.24.49:771][699]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObjectB5E518AE4900950BE10AE0A72B898DEF.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset'
+[2023.04.24-14.24.49:805][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 396 ms (total: 17.7 sec)
+[2023.04.24-14.24.49:816][699]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-14.24.49:816][699]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/InstanciatedInsightObject.InstanciatedInsightObject
+[2023.04.24-14.24.49:816][699]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.04.24-14.24.49:816][699]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Untitled.Untitled
+[2023.04.24-14.27.44:360][900]BlueprintLog: New page: Compile InstanciatedInsightObject
+[2023.04.24-14.27.44:577][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.24-14.27.45:078][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.27.45:203][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InstanciatedInsightObject" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset" SILENT=true
+[2023.04.24-14.27.45:231][914]LogSavePackage: Moving output files for package: /Game/Blueprints/InstanciatedInsightObject
+[2023.04.24-14.27.45:233][914]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObject8EE784814191AC115042569E00197EC4.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset'
+[2023.04.24-14.27.45:262][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 17.8 sec)
+[2023.04.24-14.27.45:275][914]AssetCheck: New page: Asset Save: InstanciatedInsightObject
+[2023.04.24-14.27.45:275][914]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/InstanciatedInsightObject.InstanciatedInsightObject
+[2023.04.24-14.28.34:047][ 34]LogEditorTransaction: Undo Delete current selection
+[2023.04.24-14.28.41:991][294]BlueprintLog: New page: Compile InstanciatedInsightObject
+[2023.04.24-14.28.42:161][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.04.24-14.29.08:610][247]BlueprintLog: New page: Compile InstanciatedInsightObject
+[2023.04.24-14.29.08:731][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.24-14.29.09:130][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.29.09:251][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InstanciatedInsightObject" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset" SILENT=true
+[2023.04.24-14.29.09:276][258]LogSavePackage: Moving output files for package: /Game/Blueprints/InstanciatedInsightObject
+[2023.04.24-14.29.09:278][258]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObject49C3DE0E440D4798AC22A1B5B1E63640.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset'
+[2023.04.24-14.29.09:310][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 18.0 sec)
+[2023.04.24-14.29.09:320][258]AssetCheck: New page: Asset Save: InstanciatedInsightObject
+[2023.04.24-14.29.09:320][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/InstanciatedInsightObject.InstanciatedInsightObject
+[2023.04.24-14.29.21:576][687]BlueprintLog: New page: Compile InstanciatedInsightObject
+[2023.04.24-14.29.21:725][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.04.24-14.29.22:486][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.29.22:600][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InstanciatedInsightObject" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset" SILENT=true
+[2023.04.24-14.29.22:627][721]LogSavePackage: Moving output files for package: /Game/Blueprints/InstanciatedInsightObject
+[2023.04.24-14.29.22:630][721]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObject1A2E88574AAE21F77EB3829D3186421F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset'
+[2023.04.24-14.29.22:658][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 18.2 sec)
+[2023.04.24-14.29.22:669][721]AssetCheck: New page: Asset Save: InstanciatedInsightObject
+[2023.04.24-14.29.22:669][721]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/InstanciatedInsightObject.InstanciatedInsightObject
+[2023.04.24-14.29.45:517][289]LogAutomationController: Ignoring very large delta of 3.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.24-14.30.02:574][144]BlueprintLog: New page: Compile InstanciatedInsightObject
+[2023.04.24-14.30.03:027][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.24-14.30.03:146][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.30.03:233][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InstanciatedInsightObject" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset" SILENT=true
+[2023.04.24-14.30.03:258][146]LogSavePackage: Moving output files for package: /Game/Blueprints/InstanciatedInsightObject
+[2023.04.24-14.30.03:260][146]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InstanciatedInsightObject896E4CFB41F52D6E5473968910F3CD7F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset'
+[2023.04.24-14.30.03:291][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 18.3 sec)
+[2023.04.24-14.30.03:301][146]AssetCheck: New page: Asset Save: InstanciatedInsightObject
+[2023.04.24-14.30.03:301][146]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/InstanciatedInsightObject.InstanciatedInsightObject
+[2023.04.24-14.30.15:667][294]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-14.30.15:667][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-14.48.23:915][746]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.04.24-14.48.23:918][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-14.48.23:961][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-14.48.24:458][746]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.24-14.48.24:458][746]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.24-14.48.32:013][135]LogSlate: Took 0.013301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.24-14.48.59:193][139]BlueprintLog: New page: Compile UserInterface
+[2023.04.24-14.48.59:366][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.04.24-14.48.59:892][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-14.49.00:041][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.04.24-14.49.00:106][145]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.04.24-14.49.00:114][145]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterfaceC9BBF0E7405A623550D85794A4CC59C0.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.04.24-14.49.00:143][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 251 ms (total: 18.6 sec)
+[2023.04.24-14.49.00:154][145]AssetCheck: New page: Asset Save: UserInterface
+[2023.04.24-14.49.00:154][145]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.04.24-14.49.01:494][187]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-14.49.01:518][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-14.49.01:518][187]PIE: New page: PIE session: Bag_Bgt (24 apr. 2023 18:49:01)
+[2023.04.24-14.49.01:518][187]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.04.24-14.49.01:524][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005240s)
+[2023.04.24-14.49.01:524][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.005308s)
+[2023.04.24-14.49.01:524][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-14.49.01:524][187]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.04.24-14.49.01:525][187]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2023.04.24-14.49.01:593][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.04.24-14.49.01:598][187]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.24-14.49.01:599][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-14.49.01:599][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-14.49.01:599][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-14.49.01:599][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-14.49.01:599][187]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-14.49.01:599][187]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-14.49.01:599][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-14.49.01:599][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-14.49.01:599][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-14.49.01:600][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-14.49.01:600][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-14.49.01:605][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-14.49.01:627][187]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.04.24-14.49.01:628][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-14.49.01:628][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-14.49.01:628][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-14.49.01:629][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.24-14.49.01:629][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.04.24-14.49.01:631][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.24-14.49.01:631][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.24-14.49.01:631][187]LogInit: FAudioDevice initialized.
+[2023.04.24-14.49.01:631][187]LogAudio: Display: Audio Device (ID: 4) registered with world 'Bag_Bgt'.
+[2023.04.24-14.49.01:637][187]LogLoad: Game class is 'GameModeBase'
+[2023.04.24-14.49.01:638][187]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.04.24-16.49.01
+[2023.04.24-14.49.01:638][187]LogWorld: Bringing up level for play took: 0.001554
+[2023.04.24-14.49.01:641][187]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.04.24-14.49.01:645][187]PIE: Server logged in
+[2023.04.24-14.49.01:646][187]PIE: Play in editor total start time 0,128 seconds.
+[2023.04.24-14.49.06:948][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-14.49.06:948][361]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.04.24-14.49.06:948][361]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-14.49.06:948][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-14.49.06:990][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-14.49.06:999][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-14.49.07:071][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-14.49.07:072][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.24-14.49.07:075][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.24-14.49.07:080][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-14.49.07:084][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.04.24-14.49.07:150][362]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.24-14.50.24:958][465]LogDerivedDataCache: C:/Users/mbassa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.139 and deleted 0 files with total size 0 MiB. Scanned 5937 files in 5885 folders with total size 3053 MiB.
+[2023.04.24-14.58.39:441][988]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UserInterface] ([2] browsable assets)...
+[2023.04.24-14.58.39:449][988]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UserInterface.UserInterface]
+[2023.04.24-14.58.39:449][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UserInterface]
+[2023.04.24-14.58.39:449][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/UI/UserInterface_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.04.24-14.58.39:506][988]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UserInterface_Auto5
+[2023.04.24-14.58.39:514][988]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterface_Auto5E495633F45A9A17E86AE6797CE346D04.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/UI/UserInterface_Auto5.uasset'
+[2023.04.24-14.58.39:518][988]LogFileHelpers: Auto-saving content packages took 0.078
+[2023.04.24-14.59.59:526][861]BlueprintLog: New page: Compile UserInterface
+[2023.04.24-14.59.59:676][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.04.24-15.00.00:901][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-15.00.00:924][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-15.00.00:924][889]PIE: New page: PIE session: Bag_Bgt (24 apr. 2023 19:00:00)
+[2023.04.24-15.00.00:924][889]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.04.24-15.00.00:930][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005348s)
+[2023.04.24-15.00.00:930][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.005420s)
+[2023.04.24-15.00.00:930][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-15.00.00:931][889]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.04.24-15.00.00:931][889]LogPlayLevel: PIE: World Init took: (0.001539s)
+[2023.04.24-15.00.00:999][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.04.24-15.00.01:005][889]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.24-15.00.01:005][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-15.00.01:005][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-15.00.01:005][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-15.00.01:005][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-15.00.01:005][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-15.00.01:005][889]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-15.00.01:005][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-15.00.01:005][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-15.00.01:006][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-15.00.01:006][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-15.00.01:006][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-15.00.01:010][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-15.00.01:034][889]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.04.24-15.00.01:034][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-15.00.01:034][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-15.00.01:034][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-15.00.01:035][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.24-15.00.01:036][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.24-15.00.01:038][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.24-15.00.01:038][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.24-15.00.01:038][889]LogInit: FAudioDevice initialized.
+[2023.04.24-15.00.01:038][889]LogAudio: Display: Audio Device (ID: 5) registered with world 'Bag_Bgt'.
+[2023.04.24-15.00.01:044][889]LogLoad: Game class is 'GameModeBase'
+[2023.04.24-15.00.01:045][889]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.04.24-17.00.01
+[2023.04.24-15.00.01:045][889]LogWorld: Bringing up level for play took: 0.001037
+[2023.04.24-15.00.01:048][889]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.04.24-15.00.01:051][889]PIE: Server logged in
+[2023.04.24-15.00.01:052][889]PIE: Play in editor total start time 0,128 seconds.
+[2023.04.24-15.00.06:284][ 64]LogViewport: Scene viewport resized to 1338x601, mode Windowed.
+[2023.04.24-15.00.06:343][ 66]LogViewport: Scene viewport resized to 1338x647, mode Windowed.
+[2023.04.24-15.00.06:420][ 68]LogViewport: Scene viewport resized to 1338x708, mode Windowed.
+[2023.04.24-15.00.06:493][ 70]LogViewport: Scene viewport resized to 1338x771, mode Windowed.
+[2023.04.24-15.00.06:587][ 72]LogViewport: Scene viewport resized to 1338x833, mode Windowed.
+[2023.04.24-15.00.06:796][ 74]LogViewport: Scene viewport resized to 1338x897, mode Windowed.
+[2023.04.24-15.00.07:971][110]LogViewport: Scene viewport resized to 1367x897, mode Windowed.
+[2023.04.24-15.00.08:042][112]LogViewport: Scene viewport resized to 1486x897, mode Windowed.
+[2023.04.24-15.00.08:119][114]LogViewport: Scene viewport resized to 1579x897, mode Windowed.
+[2023.04.24-15.00.08:185][116]LogViewport: Scene viewport resized to 1639x897, mode Windowed.
+[2023.04.24-15.00.08:274][118]LogViewport: Scene viewport resized to 1705x897, mode Windowed.
+[2023.04.24-15.00.08:367][120]LogViewport: Scene viewport resized to 1799x897, mode Windowed.
+[2023.04.24-15.00.08:453][122]LogViewport: Scene viewport resized to 1826x897, mode Windowed.
+[2023.04.24-15.00.08:553][124]LogViewport: Scene viewport resized to 1831x897, mode Windowed.
+[2023.04.24-15.00.08:641][126]LogViewport: Scene viewport resized to 1862x897, mode Windowed.
+[2023.04.24-15.00.08:728][128]LogViewport: Scene viewport resized to 1865x897, mode Windowed.
+[2023.04.24-15.00.09:104][147]LogViewport: Scene viewport resized to 1860x897, mode Windowed.
+[2023.04.24-15.00.41:463][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-15.00.41:463][140]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.04.24-15.00.41:463][140]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.00.41:463][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.00.41:484][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-15.00.41:497][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.00.41:568][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.24-15.00.41:569][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.24-15.00.41:572][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.24-15.00.41:579][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-15.00.41:583][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.24-15.00.41:644][141]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.04.24-15.00.43:977][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.04.24-15.00.45:302][203]LogSlate: Window 'Save Content' being destroyed
+[2023.04.24-15.00.45:386][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-15.00.45:469][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-15.00.45:536][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.04.24-15.00.45:589][203]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.04.24-15.00.45:591][203]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_BgtAF8F732D4AD8999648CA1B81C7E79586.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.04.24-15.00.45:649][203]LogFileHelpers: Saving map 'Bag_Bgt' took 0.186
+[2023.04.24-15.00.45:650][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-15.00.45:657][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Untitled" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.24-15.00.45:747][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.24-15.00.45:787][203]LogSavePackage: Moving output files for package: /Game/Levels/Untitled
+[2023.04.24-15.00.45:790][203]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UntitledA281C4FD4E6FC7A4895CD7A335B33743.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Untitled.umap'
+[2023.04.24-15.00.45:799][203]LogFileHelpers: Saving map 'Untitled' took 0.150
+[2023.04.24-15.00.45:807][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.04.24-15.00.45:868][203]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.04.24-15.00.45:871][203]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterface03DE7E4D4962FDC6A35A89AB25990308.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.04.24-15.00.45:900][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 514 ms (total: 19.1 sec)
+[2023.04.24-15.00.45:900][203]LogStall: Shutdown...
+[2023.04.24-15.00.45:905][203]LogStall: Shutdown complete.
+[2023.04.24-15.00.46:012][203]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.24-15.00.46:012][203]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.00.46:012][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.00.46:202][203]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.00.46:203][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.00.46:226][203]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.00.46:226][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.00.46:377][203]LogSlate: Window 'MigrateMartijn - Unreal Editor' being destroyed
+[2023.04.24-15.00.46:555][203]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-15.00.46:555][203]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.04.24-15.00.46:556][203]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.04.24-15.00.46:557][203]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Untitled.Untitled
+[2023.04.24-15.00.46:559][204]LogAutomationController: Ignoring very large delta of 2.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.24-15.00.46:559][204]Cmd: QUIT_EDITOR
+[2023.04.24-15.00.46:559][204]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.24-15.00.46:589][204]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.24-15.00.46:589][204]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.04.24-15.00.46:589][204]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.04.24-15.00.46:590][204]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.00.46:590][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.00.46:590][204]LogWorld: UWorld::CleanupWorld for PrototypeLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.00.46:590][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.00.46:590][204]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.00.46:590][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-15.00.46:591][204]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.04.24-15.00.46:605][204]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.04.24-15.00.46:978][204]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.24-15.00.46:978][204]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.24-15.00.46:978][204]LogAudio: Display: Audio Device unregistered from world 'Bag_Bgt'.
+[2023.04.24-15.00.46:991][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.24-15.00.46:993][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.24-15.00.47:005][204]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.24-15.00.47:019][204]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.24-15.00.47:021][204]LogExit: Preparing to exit.
+[2023.04.24-15.00.47:119][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:159][204]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.24-15.00.47:785][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.04.24-15.00.47:785][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.04.24-15.00.47:785][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.04.24-15.00.47:785][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.04.24-15.00.47:785][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.04.24-15.00.47:785][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.04.24-15.00.47:785][204]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.04.24-15.00.47:785][204]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-15.00.47:908][204]LogExit: Editor shut down
+[2023.04.24-15.00.47:910][204]LogExit: Transaction tracking system shut down
+[2023.04.24-15.00.47:918][204]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.04.24-15.00.48:130][204]LogExit: Object subsystem successfully closed.
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: ================================================
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: Total job queries 117, among them cache hits 18 (15.38%)
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: Tracking 99 distinct input hashes that result in 84 distinct outputs (84.85%)
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: RAM used: 0.88 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.24-15.00.48:137][204]LogShaderCompilers: Display: ================================================
+[2023.04.24-15.00.48:206][204]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.04.24-15.00.48:222][204]LogVirtualization: UE::Virtualization was shutdown
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module SequencerWidgets (995)
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module BlueprintGraph (993)
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (991)
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module Voice (989)
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (987)
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (985)
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module SubobjectEditor (983)
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2023.04.24-15.00.48:289][204]LogModuleManager: Shutting down and abandoning module AddContentDialog (979)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module WidgetCarousel (978)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module StatusBar (975)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (973)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module StatsViewer (971)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (969)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module AutomationWorker (967)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (965)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module TextureAlignMode (963)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module BspMode (961)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module GeometryMode (959)
+[2023.04.24-15.00.48:290][204]LogModuleManager: Shutting down and abandoning module PlanarCut (957)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module CharacterAI (955)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module SmartSnapping (953)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (951)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (949)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (947)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (945)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module WebMMedia (943)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (941)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (939)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (937)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (935)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (933)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (931)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (929)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (927)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (925)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module WaveTableEditor (923)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (921)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module GooglePADEditor (919)
+[2023.04.24-15.00.48:291][204]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (917)
+[2023.04.24-15.00.48:292][204]LogModuleManager: Shutting down and abandoning module SequenceRecorder (916)
+[2023.04.24-15.00.48:292][204]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (913)
+[2023.04.24-15.00.48:292][204]LogModuleManager: Shutting down and abandoning module ControlRigEditor (911)
+[2023.04.24-15.00.48:292][204]LogModuleManager: Shutting down and abandoning module IKRigEditor (909)
+[2023.04.24-15.00.48:293][204]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (907)
+[2023.04.24-15.00.48:293][204]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (905)
+[2023.04.24-15.00.48:293][204]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (903)
+[2023.04.24-15.00.48:293][204]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2023.04.24-15.00.48:297][204]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2023.04.24-15.00.48:297][204]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2023.04.24-15.00.48:297][204]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2023.04.24-15.00.48:297][204]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2023.04.24-15.00.48:297][204]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2023.04.24-15.00.48:298][204]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2023.04.24-15.00.48:298][204]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2023.04.24-15.00.48:298][204]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2023.04.24-15.00.48:298][204]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2023.04.24-15.00.48:298][204]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2023.04.24-15.00.48:298][204]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2023.04.24-15.00.48:298][204]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2023.04.24-15.00.48:299][204]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2023.04.24-15.00.48:299][204]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2023.04.24-15.00.48:299][204]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2023.04.24-15.00.48:299][204]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2023.04.24-15.00.49:060][204]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2023.04.24-15.00.49:063][204]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2023.04.24-15.00.49:067][204]MemoryProfiler: Shutdown
+[2023.04.24-15.00.49:067][204]NetworkingProfiler: Shutdown
+[2023.04.24-15.00.49:067][204]LoadingProfiler: Shutdown
+[2023.04.24-15.00.49:068][204]TimingProfiler: Shutdown
+[2023.04.24-15.00.49:069][204]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2023.04.24-15.00.49:070][204]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2023.04.24-15.00.49:071][204]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2023.04.24-15.00.49:072][204]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2023.04.24-15.00.49:073][204]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2023.04.24-15.00.49:073][204]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2023.04.24-15.00.49:073][204]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2023.04.24-15.00.49:073][204]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2023.04.24-15.00.49:074][204]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2023.04.24-15.00.49:075][204]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2023.04.24-15.00.49:075][204]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2023.04.24-15.00.49:075][204]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2023.04.24-15.00.49:085][204]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2023.04.24-15.00.49:085][204]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2023.04.24-15.00.49:085][204]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2023.04.24-15.00.49:085][204]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2023.04.24-15.00.49:088][204]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2023.04.24-15.00.49:088][204]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2023.04.24-15.00.49:088][204]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2023.04.24-15.00.49:088][204]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2023.04.24-15.00.49:089][204]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2023.04.24-15.00.49:089][204]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2023.04.24-15.00.49:089][204]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2023.04.24-15.00.49:097][204]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2023.04.24-15.00.49:098][204]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2023.04.24-15.00.49:098][204]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2023.04.24-15.00.49:098][204]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2023.04.24-15.00.49:098][204]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2023.04.24-15.00.49:098][204]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2023.04.24-15.00.49:098][204]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2023.04.24-15.00.49:098][204]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2023.04.24-15.00.49:311][204]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2023.04.24-15.00.49:311][204]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (707)
+[2023.04.24-15.00.49:311][204]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (705)
+[2023.04.24-15.00.49:312][204]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (703)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module TakesCore (701)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module LightMixer (695)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (693)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (691)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (689)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (687)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2023.04.24-15.00.49:313][204]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (683)
+[2023.04.24-15.00.49:314][204]LogModuleManager: Shutting down and abandoning module InterchangeTests (681)
+[2023.04.24-15.00.49:314][204]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (679)
+[2023.04.24-15.00.49:314][204]LogModuleManager: Shutting down and abandoning module VariantManager (677)
+[2023.04.24-15.00.49:314][204]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (676)
+[2023.04.24-15.00.49:314][204]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (673)
+[2023.04.24-15.00.49:314][204]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (671)
+[2023.04.24-15.00.49:314][204]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (669)
+[2023.04.24-15.00.49:315][204]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (667)
+[2023.04.24-15.00.49:315][204]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (665)
+[2023.04.24-15.00.49:315][204]LogModuleManager: Shutting down and abandoning module StylusInput (663)
+[2023.04.24-15.00.49:315][204]LogModuleManager: Shutting down and abandoning module PluginBrowser (661)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (659)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (657)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (655)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (653)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module GLTFImporter (651)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module GLTFCore (649)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (647)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module EditorDebugTools (645)
+[2023.04.24-15.00.49:316][204]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (643)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module CryptoKeys (641)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module CurveEditorTools (639)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (637)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (635)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module UVEditorTools (633)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module UVEditor (631)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (629)
+[2023.04.24-15.00.49:317][204]LogOpenImageDenoise: OIDN shutting down
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module MeshLODToolset (627)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (625)
+[2023.04.24-15.00.49:317][204]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (623)
+[2023.04.24-15.00.49:319][204]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (621)
+[2023.04.24-15.00.49:319][204]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (619)
+[2023.04.24-15.00.49:319][204]LogModuleManager: Shutting down and abandoning module Iris (617)
+[2023.04.24-15.00.49:319][204]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (615)
+[2023.04.24-15.00.49:319][204]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (613)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (611)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (609)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (607)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (606)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (604)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (601)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module DataflowNodes (599)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module DataflowEditor (597)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (595)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (593)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module ChaosNiagara (591)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module FractureEditor (589)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (587)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module BackChannel (585)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (583)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module AutomationUtils (581)
+[2023.04.24-15.00.49:320][204]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (579)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (577)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module Paper2DEditor (575)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (573)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module MediaPlate (571)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module ImgMedia (569)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module MediaCompositing (567)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (563)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module SynthesisEditor (561)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module ResonanceAudio (559)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (557)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (555)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (553)
+[2023.04.24-15.00.49:321][204]LogModuleManager: Shutting down and abandoning module ModelingOperators (551)
+[2023.04.24-15.00.49:322][204]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (549)
+[2023.04.24-15.00.49:322][204]LogModuleManager: Shutting down and abandoning module ModelingComponents (547)
+[2023.04.24-15.00.49:322][204]LogModuleManager: Shutting down and abandoning module GeometryFramework (546)
+[2023.04.24-15.00.49:322][204]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (543)
+[2023.04.24-15.00.49:322][204]LogModuleManager: Shutting down and abandoning module MeshModelingTools (541)
+[2023.04.24-15.00.49:322][204]LogModuleManager: Shutting down and abandoning module DynamicMesh (539)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (537)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module GooglePAD (535)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InputDebugging (533)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (531)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (529)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (527)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module AudioCapture (525)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (524)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (521)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module AssetTags (519)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (517)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module AppleImageUtils (515)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module AndroidPermission (513)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (511)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (509)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (507)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (505)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (503)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangePipelines (501)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeExport (499)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeMessages (497)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeImport (495)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (493)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeNodes (491)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (489)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (487)
+[2023.04.24-15.00.49:323][204]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (485)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module InterchangeEditor (483)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module AlembicImporter (481)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module AlembicLibrary (480)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module GeometryCache (479)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (478)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (473)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module ControlRigSpline (471)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (469)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module TakeSequencer (467)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module TakeMovieScene (465)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module TemplateSequence (463)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (461)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module SequencerScripting (459)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module UObjectPlugin (457)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (455)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (453)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (451)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (449)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (447)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (445)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module DumpGPUServices (443)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module PluginUtils (441)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module GitSourceControl (439)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (437)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (435)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module TraceUtilities (433)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module GameplayCameras (425)
+[2023.04.24-15.00.49:324][204]LogModuleManager: Shutting down and abandoning module UdpMessaging (423)
+[2023.04.24-15.00.49:425][204]LogModuleManager: Shutting down and abandoning module TcpMessaging (421)
+[2023.04.24-15.00.49:526][204]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (419)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (417)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module FacialAnimation (415)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module DataValidation (413)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (411)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module TreeMap (410)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (407)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module PBIK (405)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module FullBodyIK (403)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (401)
+[2023.04.24-15.00.49:528][204]LogModuleManager: Shutting down and abandoning module TakeRecorder (400)
+[2023.04.24-15.00.49:529][204]LogModuleManager: Shutting down and abandoning module LevelEditor (398)
+[2023.04.24-15.00.49:533][204]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (397)
+[2023.04.24-15.00.49:533][204]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (395)
+[2023.04.24-15.00.49:533][204]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (393)
+[2023.04.24-15.00.49:533][204]LogModuleManager: Shutting down and abandoning module MainFrame (391)
+[2023.04.24-15.00.49:533][204]LogModuleManager: Shutting down and abandoning module HotReload (390)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module ChaosCaching (385)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module Paper2D (383)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (381)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (379)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module Niagara (377)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module NiagaraEditor (376)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module ContentBrowser (375)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module ContentBrowserData (374)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module NiagaraCore (369)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module Synthesis (367)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module SoundFields (365)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module SignificanceManager (363)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (361)
+[2023.04.24-15.00.49:534][204]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (359)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module MetasoundEditor (357)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module ToolMenus (356)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module AudioWidgets (354)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (353)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (349)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module MetasoundEngine (347)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module WaveTable (346)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (344)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (341)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (339)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (337)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (335)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (333)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (331)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module CableComponent (329)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (327)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (326)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (323)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module SignalProcessing (322)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (319)
+[2023.04.24-15.00.49:535][204]LogModuleManager: Shutting down and abandoning module ControlRig (317)
+[2023.04.24-15.00.49:537][204]LogModuleManager: Shutting down and abandoning module LevelSequence (316)
+[2023.04.24-15.00.49:537][204]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (313)
+[2023.04.24-15.00.49:537][204]LogModuleManager: Shutting down and abandoning module IKRig (311)
+[2023.04.24-15.00.49:537][204]LogModuleManager: Shutting down and abandoning module ActorSequence (309)
+[2023.04.24-15.00.49:537][204]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (307)
+[2023.04.24-15.00.49:538][204]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (305)
+[2023.04.24-15.00.49:538][204]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (303)
+[2023.04.24-15.00.49:538][204]LogModuleManager: Shutting down and abandoning module AnimationSharing (301)
+[2023.04.24-15.00.49:538][204]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.04.24-15.00.49:538][204]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.04.24-15.00.49:538][204]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (295)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (293)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.04.24-15.00.49:539][204]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.04.24-15.00.49:540][204]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.04.24-15.00.49:540][204]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.04.24-15.00.49:541][204]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.04.24-15.00.49:544][204]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.04.24-15.00.49:544][204]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.04.24-15.00.49:544][204]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.04.24-15.00.49:544][204]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.04.24-15.00.49:544][204]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.04.24-15.00.49:544][204]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.04.24-15.00.49:544][204]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.04.24-15.00.49:545][204]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.04.24-15.00.49:545][204]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.04.24-15.00.49:545][204]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.04.24-15.00.49:545][204]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.04.24-15.00.49:545][204]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.04.24-15.00.49:545][204]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.04.24-15.00.49:546][204]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.04.24-15.00.49:546][204]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.04.24-15.00.49:556][204]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.04.24-15.00.49:556][204]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.04.24-15.00.49:560][204]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.04.24-15.00.49:560][204]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.04.24-15.00.49:561][204]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.04.24-15.00.49:561][204]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.04.24-15.00.49:561][204]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.04.24-15.00.49:563][204]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module VariantManagerContent (112)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module GLTFExporter (110)
+[2023.04.24-15.00.49:564][204]LogModuleManager: Shutting down and abandoning module DatasmithContent (108)
+[2023.04.24-15.00.49:565][204]LogModuleManager: Shutting down and abandoning module ChaosCloth (106)
+[2023.04.24-15.00.49:565][204]LogModuleManager: Shutting down and abandoning module WmfMedia (104)
+[2023.04.24-15.00.49:569][204]LogModuleManager: Shutting down and abandoning module Media (103)
+[2023.04.24-15.00.49:571][204]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (100)
+[2023.04.24-15.00.49:571][204]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (98)
+[2023.04.24-15.00.49:571][204]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (96)
+[2023.04.24-15.00.49:571][204]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (94)
+[2023.04.24-15.00.49:572][204]LogModuleManager: Shutting down and abandoning module XMPP (89)
+[2023.04.24-15.00.49:573][204]LogModuleManager: Shutting down and abandoning module WebSockets (88)
+[2023.04.24-15.00.49:577][204]LogModuleManager: Shutting down and abandoning module HTTP (85)
+[2023.04.24-15.00.49:577][204]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.04.24-15.00.49:577][204]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9B7D47A-44BA-9209-3568-AF89D890CB7C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=febaf8354645ee2e6e66fc90f87ac039%7Ca36dad9018274b45a86525de79154de3%7Cbcb442d4-1e94-452f-94ed-ba596a1898bb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.04.24-15.00.49:582][204]LogModuleManager: Shutting down and abandoning module SSL (84)
+[2023.04.24-15.00.49:583][204]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (80)
+[2023.04.24-15.00.49:583][204]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (78)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (76)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (74)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module NiagaraShader (72)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (70)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module ChunkDownloader (66)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module AISupportModule (64)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (62)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.04.24-15.00.49:584][204]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.04.24-15.00.49:585][204]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.04.24-15.00.49:585][204]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.04.24-15.00.49:585][204]LogXGEController: Cleaning working directory: C:/Users/mbassa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.04.24-15.00.49:585][204]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.04.24-15.00.49:586][204]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.04.24-15.00.49:586][204]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.04.24-15.00.49:587][204]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.04.24-15.00.49:587][204]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.04.24-15.00.49:587][204]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.04.24-15.00.49:587][204]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.04.24-15.00.49:587][204]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.04.24-15.00.49:587][204]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.04.24-15.00.49:587][204]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.04.24-15.00.49:588][204]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.04.24-15.00.49:588][204]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.04.24-15.00.49:588][204]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.04.24-15.00.49:588][204]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.04.24-15.00.49:588][204]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.04.24-15.00.49:589][204]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.04.24-15.00.49:589][204]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.04.24-15.00.49:589][204]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.04.24-15.00.49:589][204]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.04.24-15.00.49:589][204]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.04.24-15.00.49:589][204]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.04.24-15.00.49:814][204]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.04.24-15.00.49:871][204]LogExit: Exiting.
+[2023.04.24-15.00.49:882][204]Log file closed, 04/24/23 17:00:49
