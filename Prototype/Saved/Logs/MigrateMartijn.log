@@ -2964,3 +2964,12 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.04.25-14.46.04:842][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.04.25-14.46.04:847][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
 [2023.04.25-14.46.04:895][192]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.04.25-14.46.53:318][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.04.25-14.46.54:983][562]LogSlate: Window 'Save Content' being destroyed
+[2023.04.25-14.46.55:032][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.25-14.46.55:124][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/OptionsMenu" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/OptionsMenu.uasset" SILENT=true
+[2023.04.25-14.46.55:163][562]LogSavePackage: Moving output files for package: /Game/UI/OptionsMenu
+[2023.04.25-14.46.55:166][562]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/OptionsMenuDC22675F48FDA581FF3555AF7D48F5AE.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/OptionsMenu.uasset'
+[2023.04.25-14.46.55:200][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 2.15 sec)
+[2023.04.25-14.46.55:212][562]AssetCheck: New page: Asset Save: OptionsMenu
+[2023.04.25-14.46.55:213][562]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/OptionsMenu.OptionsMenu
