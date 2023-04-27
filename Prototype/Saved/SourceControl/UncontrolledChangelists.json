@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/UI/OptionsMenu.uasset",
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset",
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset",
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset",
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/PrototypeLevel.umap",
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
