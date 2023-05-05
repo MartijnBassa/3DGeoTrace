@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/PlanWidget.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/GameModes/MenuGameMode.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/GameModes/PlayerControllerTst.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/GameModes/NewGameMode.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/GameModes/TestClassMode.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Bgt/Bgt_51GN2_21/Materials/MI_Bgt_Bgt_51GN2_21.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Bgt/Bgt_51GN2_22/Geometries/Bgt_51GN2_22_mesh.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/Sphere.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Untitled.umap",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Bgt/Bgt_51GN2_22/BP_BgtTile_Bgt_51GN2_22.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Materials/Bgt/M_Bgt.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/InstanciatedInsightObject.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Materials/BGT_Physical_material.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Materials/IconMaterial.uasset"
+			]
+		}
+	]
+}
