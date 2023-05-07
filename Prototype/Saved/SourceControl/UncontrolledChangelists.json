@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/UI/DepotsInterface.uasset",
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/UI/Test.uasset",
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/UI/PlanWidget.uasset",
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/PlanWidget.uasset",
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset",
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
