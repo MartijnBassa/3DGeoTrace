@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/DirtDepot.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/DepotsInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap"
+			]
+		}
+	]
+}
