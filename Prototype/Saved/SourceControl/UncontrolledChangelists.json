@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset",
-				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap"
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/UI/DepotsInterface.uasset"
 			]
 		}
 	]
