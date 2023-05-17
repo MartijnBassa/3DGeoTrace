@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/OptionsMenuInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/OptionsMenu.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/PlanInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/PlanWidget.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/MainMenuInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/MainMenu.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/InsightBoxInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/InsightBox.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/DeleteConfirmationInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset",
 				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset",
 				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
 				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/UI/DepotsInterface.uasset"
