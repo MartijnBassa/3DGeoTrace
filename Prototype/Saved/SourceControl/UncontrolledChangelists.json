@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/MainMenuInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/Background/Knipsel.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/ManualInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/GameModes/MenuGameMode.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/MainMenuLevel.umap"
+			]
+		}
+	]
+}
