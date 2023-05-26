@@ -2103,3 +2103,1434 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2023.05.26-13.07.52:916][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 3.48 sec)
 [2023.05.26-13.07.52:928][147]AssetCheck: New page: Asset Save: ManualInterface
 [2023.05.26-13.07.52:928][147]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ManualInterface.ManualInterface
+[2023.05.26-13.08.59:181][442]BlueprintLog: New page: Compile ManualInterface
+[2023.05.26-13.08.59:302][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.26-13.08.59:739][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.08.59:874][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ManualInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/ManualInterface.uasset" SILENT=true
+[2023.05.26-13.08.59:909][453]LogSavePackage: Moving output files for package: /Game/UI/ManualInterface
+[2023.05.26-13.08.59:912][453]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/ManualInterface4A1317674879705B56AB90A6C760C0F4.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/ManualInterface.uasset'
+[2023.05.26-13.08.59:942][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 3.68 sec)
+[2023.05.26-13.08.59:953][453]AssetCheck: New page: Asset Save: ManualInterface
+[2023.05.26-13.08.59:953][453]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ManualInterface.ManualInterface
+[2023.05.26-13.09.29:996][844]BlueprintLog: New page: Compile ManualInterface
+[2023.05.26-13.09.30:124][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.05.26-13.09.30:586][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.09.30:725][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ManualInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/ManualInterface.uasset" SILENT=true
+[2023.05.26-13.09.30:761][857]LogSavePackage: Moving output files for package: /Game/UI/ManualInterface
+[2023.05.26-13.09.30:764][857]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/ManualInterfaceC99BC37947140B7EEBC8C68D57065BAF.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/ManualInterface.uasset'
+[2023.05.26-13.09.30:795][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 3.89 sec)
+[2023.05.26-13.09.30:807][857]AssetCheck: New page: Asset Save: ManualInterface
+[2023.05.26-13.09.30:807][857]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ManualInterface.ManualInterface
+[2023.05.26-13.09.32:283][927]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.09.32:307][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.09.32:307][927]PIE: New page: PIE session: MainMenuLevel (26 mei 2023 17:09:32)
+[2023.05.26-13.09.32:308][927]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.05.26-13.09.32:309][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001687s)
+[2023.05.26-13.09.32:310][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001774s)
+[2023.05.26-13.09.32:310][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.09.32:310][927]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.26-13.09.32:310][927]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2023.05.26-13.09.32:391][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.26-13.09.32:396][927]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.26-13.09.32:396][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.09.32:396][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.09.32:396][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.09.32:396][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.09.32:396][927]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.09.32:396][927]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.09.32:396][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.09.32:396][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.09.32:397][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.09.32:397][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.09.32:397][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.09.32:401][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.09.32:422][927]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.09.32:422][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.09.32:422][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.09.32:422][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.09.32:424][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.05.26-13.09.32:424][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.05.26-13.09.32:425][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.05.26-13.09.32:426][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.05.26-13.09.32:426][927]LogInit: FAudioDevice initialized.
+[2023.05.26-13.09.32:426][927]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenuLevel'.
+[2023.05.26-13.09.32:431][927]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.09.32:431][927]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.26-15.09.32
+[2023.05.26-13.09.32:431][927]LogWorld: Bringing up level for play took: 0.000359
+[2023.05.26-13.09.32:434][927]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.05.26-13.09.32:436][927]PIE: Server logged in
+[2023.05.26-13.09.32:437][927]PIE: Play in editor total start time 0,13 seconds.
+[2023.05.26-13.09.43:204][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.09.43:204][566]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.05.26-13.09.43:204][566]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.09.43:205][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.09.43:209][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.09.43:217][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.09.43:292][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.09.43:293][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.26-13.09.43:296][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.26-13.09.43:301][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.09.43:305][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.26-13.09.43:341][567]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.05.26-13.09.43:407][571]Cmd: SELECT NONE
+[2023.05.26-13.09.43:659][585]Cmd: SELECT NONE
+[2023.05.26-13.11.38:334][492]LogViewport: Scene viewport resized to 1821x751, mode Windowed.
+[2023.05.26-13.11.38:614][492]LogViewport: Scene viewport resized to 1821x719, mode Windowed.
+[2023.05.26-13.11.44:913][595]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.11.44:933][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.11.44:933][595]PIE: New page: PIE session: MainMenuLevel (26 mei 2023 17:11:44)
+[2023.05.26-13.11.44:934][595]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.05.26-13.11.44:936][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002222s)
+[2023.05.26-13.11.44:936][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002297s)
+[2023.05.26-13.11.44:936][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.11.44:937][595]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.26-13.11.44:937][595]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2023.05.26-13.11.45:015][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.05.26-13.11.45:017][595]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.05.26-13.11.45:018][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.11.45:018][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.11.45:018][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.11.45:018][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.11.45:018][595]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.11.45:018][595]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.11.45:018][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.11.45:018][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.11.45:018][595]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.11.45:018][595]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.11.45:018][595]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.11.45:022][595]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.11.45:044][595]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.11.45:044][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.11.45:044][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.11.45:044][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.11.45:044][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.05.26-13.11.45:044][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.05.26-13.11.45:046][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.05.26-13.11.45:047][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.05.26-13.11.45:047][595]LogInit: FAudioDevice initialized.
+[2023.05.26-13.11.45:047][595]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenuLevel'.
+[2023.05.26-13.11.45:052][595]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.11.45:052][595]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.26-15.11.45
+[2023.05.26-13.11.45:052][595]LogWorld: Bringing up level for play took: 0.000379
+[2023.05.26-13.11.45:054][595]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.05.26-13.11.45:056][595]PIE: Server logged in
+[2023.05.26-13.11.45:057][595]PIE: Play in editor total start time 0,124 seconds.
+[2023.05.26-13.11.52:903][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.11.52:903][ 58]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.05.26-13.11.52:903][ 58]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.11.52:903][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.11.52:910][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.11.52:918][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.11.52:993][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.11.52:994][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.05.26-13.11.52:996][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.05.26-13.11.53:005][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.26-13.11.53:038][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.05.26-13.11.53:717][ 90]Cmd: SELECT NONE
+[2023.05.26-13.11.53:905][ 99]Cmd: SELECT NONE
+[2023.05.26-13.11.59:580][378]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.26-13.11.59:580][378]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.26-13.12.24:949][498]BlueprintLog: New page: Compile ManualInterface
+[2023.05.26-13.12.25:044][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.26-13.12.25:701][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.12.25:842][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ManualInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/ManualInterface.uasset" SILENT=true
+[2023.05.26-13.12.25:877][514]LogSavePackage: Moving output files for package: /Game/UI/ManualInterface
+[2023.05.26-13.12.25:880][514]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/ManualInterfaceFFE5DD2D4B17AB09322D209ED0450E3C.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/ManualInterface.uasset'
+[2023.05.26-13.12.25:910][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 4.10 sec)
+[2023.05.26-13.12.25:918][514]AssetCheck: New page: Asset Save: ManualInterface
+[2023.05.26-13.12.25:919][514]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/ManualInterface.ManualInterface
+[2023.05.26-13.12.26:714][542]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.12.26:735][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.12.26:735][542]PIE: New page: PIE session: MainMenuLevel (26 mei 2023 17:12:26)
+[2023.05.26-13.12.26:735][542]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.05.26-13.12.26:736][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001476s)
+[2023.05.26-13.12.26:736][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001548s)
+[2023.05.26-13.12.26:736][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.12.26:737][542]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.26-13.12.26:737][542]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2023.05.26-13.12.26:818][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.26-13.12.26:823][542]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.05.26-13.12.26:823][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.12.26:823][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.12.26:823][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.12.26:823][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.12.26:823][542]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.12.26:823][542]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.12.26:823][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.12.26:823][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.12.26:824][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.12.26:824][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.12.26:824][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.12.26:827][542]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.12.26:848][542]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.12.26:849][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.12.26:849][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.12.26:849][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.12.26:850][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.05.26-13.12.26:850][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.05.26-13.12.26:853][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.05.26-13.12.26:853][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.05.26-13.12.26:853][542]LogInit: FAudioDevice initialized.
+[2023.05.26-13.12.26:853][542]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuLevel'.
+[2023.05.26-13.12.26:858][542]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.12.26:858][542]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.26-15.12.26
+[2023.05.26-13.12.26:858][542]LogWorld: Bringing up level for play took: 0.000358
+[2023.05.26-13.12.26:860][542]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.05.26-13.12.26:862][542]PIE: Server logged in
+[2023.05.26-13.12.26:863][542]PIE: Play in editor total start time 0,129 seconds.
+[2023.05.26-13.12.33:875][956]LogViewport: Scene viewport resized to 1821x716, mode Windowed.
+[2023.05.26-13.12.33:966][958]LogViewport: Scene viewport resized to 1821x674, mode Windowed.
+[2023.05.26-13.12.34:062][960]LogViewport: Scene viewport resized to 1821x652, mode Windowed.
+[2023.05.26-13.12.34:090][961]LogViewport: Scene viewport resized to 1821x651, mode Windowed.
+[2023.05.26-13.12.34:133][963]LogViewport: Scene viewport resized to 1821x649, mode Windowed.
+[2023.05.26-13.12.34:170][965]LogViewport: Scene viewport resized to 1821x643, mode Windowed.
+[2023.05.26-13.12.34:210][967]LogViewport: Scene viewport resized to 1821x638, mode Windowed.
+[2023.05.26-13.12.34:250][969]LogViewport: Scene viewport resized to 1821x629, mode Windowed.
+[2023.05.26-13.12.34:293][971]LogViewport: Scene viewport resized to 1821x612, mode Windowed.
+[2023.05.26-13.12.34:335][973]LogViewport: Scene viewport resized to 1821x599, mode Windowed.
+[2023.05.26-13.12.34:375][975]LogViewport: Scene viewport resized to 1821x593, mode Windowed.
+[2023.05.26-13.12.34:416][977]LogViewport: Scene viewport resized to 1821x586, mode Windowed.
+[2023.05.26-13.12.34:459][979]LogViewport: Scene viewport resized to 1821x576, mode Windowed.
+[2023.05.26-13.12.34:500][981]LogViewport: Scene viewport resized to 1821x567, mode Windowed.
+[2023.05.26-13.12.34:542][983]LogViewport: Scene viewport resized to 1821x555, mode Windowed.
+[2023.05.26-13.12.34:583][985]LogViewport: Scene viewport resized to 1821x546, mode Windowed.
+[2023.05.26-13.12.34:622][987]LogViewport: Scene viewport resized to 1821x538, mode Windowed.
+[2023.05.26-13.12.34:653][988]LogViewport: Scene viewport resized to 1821x527, mode Windowed.
+[2023.05.26-13.12.34:694][990]LogViewport: Scene viewport resized to 1821x515, mode Windowed.
+[2023.05.26-13.12.34:730][992]LogViewport: Scene viewport resized to 1821x506, mode Windowed.
+[2023.05.26-13.12.34:779][994]LogViewport: Scene viewport resized to 1821x491, mode Windowed.
+[2023.05.26-13.12.34:821][996]LogViewport: Scene viewport resized to 1821x482, mode Windowed.
+[2023.05.26-13.12.34:862][998]LogViewport: Scene viewport resized to 1821x471, mode Windowed.
+[2023.05.26-13.12.34:903][  0]LogViewport: Scene viewport resized to 1821x462, mode Windowed.
+[2023.05.26-13.12.34:928][  1]LogViewport: Scene viewport resized to 1821x458, mode Windowed.
+[2023.05.26-13.12.34:953][  2]LogViewport: Scene viewport resized to 1821x454, mode Windowed.
+[2023.05.26-13.12.34:991][  4]LogViewport: Scene viewport resized to 1821x446, mode Windowed.
+[2023.05.26-13.12.35:030][  6]LogViewport: Scene viewport resized to 1821x437, mode Windowed.
+[2023.05.26-13.12.35:074][  8]LogViewport: Scene viewport resized to 1821x425, mode Windowed.
+[2023.05.26-13.12.35:115][ 10]LogViewport: Scene viewport resized to 1821x410, mode Windowed.
+[2023.05.26-13.12.35:138][ 11]LogViewport: Scene viewport resized to 1821x402, mode Windowed.
+[2023.05.26-13.12.35:181][ 13]LogViewport: Scene viewport resized to 1821x389, mode Windowed.
+[2023.05.26-13.12.35:223][ 15]LogViewport: Scene viewport resized to 1821x375, mode Windowed.
+[2023.05.26-13.12.35:260][ 17]LogViewport: Scene viewport resized to 1821x369, mode Windowed.
+[2023.05.26-13.12.35:300][ 19]LogViewport: Scene viewport resized to 1821x365, mode Windowed.
+[2023.05.26-13.12.35:342][ 21]LogViewport: Scene viewport resized to 1821x351, mode Windowed.
+[2023.05.26-13.12.35:388][ 23]LogViewport: Scene viewport resized to 1821x332, mode Windowed.
+[2023.05.26-13.12.35:432][ 25]LogViewport: Scene viewport resized to 1821x312, mode Windowed.
+[2023.05.26-13.12.35:473][ 27]LogViewport: Scene viewport resized to 1821x301, mode Windowed.
+[2023.05.26-13.12.35:515][ 29]LogViewport: Scene viewport resized to 1821x294, mode Windowed.
+[2023.05.26-13.12.35:559][ 31]LogViewport: Scene viewport resized to 1821x288, mode Windowed.
+[2023.05.26-13.12.35:598][ 33]LogViewport: Scene viewport resized to 1821x283, mode Windowed.
+[2023.05.26-13.12.35:642][ 35]LogViewport: Scene viewport resized to 1821x273, mode Windowed.
+[2023.05.26-13.12.35:684][ 37]LogViewport: Scene viewport resized to 1821x269, mode Windowed.
+[2023.05.26-13.12.35:726][ 39]LogViewport: Scene viewport resized to 1821x257, mode Windowed.
+[2023.05.26-13.12.35:766][ 41]LogViewport: Scene viewport resized to 1821x253, mode Windowed.
+[2023.05.26-13.12.36:006][ 55]LogViewport: Scene viewport resized to 1821x259, mode Windowed.
+[2023.05.26-13.12.36:067][ 56]LogViewport: Scene viewport resized to 1821x282, mode Windowed.
+[2023.05.26-13.12.36:129][ 58]LogViewport: Scene viewport resized to 1821x317, mode Windowed.
+[2023.05.26-13.12.36:171][ 60]LogViewport: Scene viewport resized to 1821x329, mode Windowed.
+[2023.05.26-13.12.36:213][ 62]LogViewport: Scene viewport resized to 1821x345, mode Windowed.
+[2023.05.26-13.12.36:254][ 64]LogViewport: Scene viewport resized to 1821x359, mode Windowed.
+[2023.05.26-13.12.36:295][ 66]LogViewport: Scene viewport resized to 1821x372, mode Windowed.
+[2023.05.26-13.12.36:340][ 68]LogViewport: Scene viewport resized to 1821x401, mode Windowed.
+[2023.05.26-13.12.36:384][ 70]LogViewport: Scene viewport resized to 1821x421, mode Windowed.
+[2023.05.26-13.12.36:430][ 72]LogViewport: Scene viewport resized to 1821x443, mode Windowed.
+[2023.05.26-13.12.36:472][ 74]LogViewport: Scene viewport resized to 1821x468, mode Windowed.
+[2023.05.26-13.12.36:514][ 76]LogViewport: Scene viewport resized to 1821x496, mode Windowed.
+[2023.05.26-13.12.36:557][ 78]LogViewport: Scene viewport resized to 1821x524, mode Windowed.
+[2023.05.26-13.12.36:600][ 80]LogViewport: Scene viewport resized to 1821x560, mode Windowed.
+[2023.05.26-13.12.36:647][ 82]LogViewport: Scene viewport resized to 1821x587, mode Windowed.
+[2023.05.26-13.12.36:695][ 84]LogViewport: Scene viewport resized to 1821x623, mode Windowed.
+[2023.05.26-13.12.36:741][ 86]LogViewport: Scene viewport resized to 1821x668, mode Windowed.
+[2023.05.26-13.12.36:790][ 88]LogViewport: Scene viewport resized to 1821x713, mode Windowed.
+[2023.05.26-13.12.36:835][ 90]LogViewport: Scene viewport resized to 1821x728, mode Windowed.
+[2023.05.26-13.12.36:875][ 92]LogViewport: Scene viewport resized to 1821x748, mode Windowed.
+[2023.05.26-13.12.36:918][ 94]LogViewport: Scene viewport resized to 1821x768, mode Windowed.
+[2023.05.26-13.12.36:959][ 96]LogViewport: Scene viewport resized to 1821x775, mode Windowed.
+[2023.05.26-13.12.36:999][ 98]LogViewport: Scene viewport resized to 1821x785, mode Windowed.
+[2023.05.26-13.12.37:042][100]LogViewport: Scene viewport resized to 1821x793, mode Windowed.
+[2023.05.26-13.12.37:082][102]LogViewport: Scene viewport resized to 1821x797, mode Windowed.
+[2023.05.26-13.12.37:187][108]LogViewport: Scene viewport resized to 1821x800, mode Windowed.
+[2023.05.26-13.12.37:272][110]LogViewport: Scene viewport resized to 1821x802, mode Windowed.
+[2023.05.26-13.12.37:361][112]LogViewport: Scene viewport resized to 1821x818, mode Windowed.
+[2023.05.26-13.12.37:517][121]LogViewport: Scene viewport resized to 1821x816, mode Windowed.
+[2023.05.26-13.12.37:609][123]LogViewport: Scene viewport resized to 1821x772, mode Windowed.
+[2023.05.26-13.12.37:696][124]LogViewport: Scene viewport resized to 1821x735, mode Windowed.
+[2023.05.26-13.12.37:729][125]LogViewport: Scene viewport resized to 1821x723, mode Windowed.
+[2023.05.26-13.12.37:771][127]LogViewport: Scene viewport resized to 1821x715, mode Windowed.
+[2023.05.26-13.12.37:810][129]LogViewport: Scene viewport resized to 1821x707, mode Windowed.
+[2023.05.26-13.12.37:851][131]LogViewport: Scene viewport resized to 1821x699, mode Windowed.
+[2023.05.26-13.12.37:905][134]LogViewport: Scene viewport resized to 1821x694, mode Windowed.
+[2023.05.26-13.12.37:956][136]LogViewport: Scene viewport resized to 1821x685, mode Windowed.
+[2023.05.26-13.12.38:137][143]LogViewport: Scene viewport resized to 1821x681, mode Windowed.
+[2023.05.26-13.12.38:195][144]LogViewport: Scene viewport resized to 1821x675, mode Windowed.
+[2023.05.26-13.12.38:259][146]LogViewport: Scene viewport resized to 1821x669, mode Windowed.
+[2023.05.26-13.12.38:293][148]LogViewport: Scene viewport resized to 1821x667, mode Windowed.
+[2023.05.26-13.12.38:350][151]LogViewport: Scene viewport resized to 1821x664, mode Windowed.
+[2023.05.26-13.12.38:415][154]LogViewport: Scene viewport resized to 1821x661, mode Windowed.
+[2023.05.26-13.12.38:576][160]LogViewport: Scene viewport resized to 1821x657, mode Windowed.
+[2023.05.26-13.12.38:674][162]LogViewport: Scene viewport resized to 1821x649, mode Windowed.
+[2023.05.26-13.12.38:777][164]LogViewport: Scene viewport resized to 1821x590, mode Windowed.
+[2023.05.26-13.12.38:822][166]LogViewport: Scene viewport resized to 1821x580, mode Windowed.
+[2023.05.26-13.12.38:864][168]LogViewport: Scene viewport resized to 1821x567, mode Windowed.
+[2023.05.26-13.12.38:906][170]LogViewport: Scene viewport resized to 1821x550, mode Windowed.
+[2023.05.26-13.12.38:939][171]LogViewport: Scene viewport resized to 1821x540, mode Windowed.
+[2023.05.26-13.12.38:969][172]LogViewport: Scene viewport resized to 1821x527, mode Windowed.
+[2023.05.26-13.12.39:010][174]LogViewport: Scene viewport resized to 1821x506, mode Windowed.
+[2023.05.26-13.12.39:051][176]LogViewport: Scene viewport resized to 1821x484, mode Windowed.
+[2023.05.26-13.12.39:083][177]LogViewport: Scene viewport resized to 1821x460, mode Windowed.
+[2023.05.26-13.12.39:111][178]LogViewport: Scene viewport resized to 1821x441, mode Windowed.
+[2023.05.26-13.12.39:151][180]LogViewport: Scene viewport resized to 1821x428, mode Windowed.
+[2023.05.26-13.12.39:196][182]LogViewport: Scene viewport resized to 1821x414, mode Windowed.
+[2023.05.26-13.12.39:238][184]LogViewport: Scene viewport resized to 1821x410, mode Windowed.
+[2023.05.26-13.12.39:279][186]LogViewport: Scene viewport resized to 1821x407, mode Windowed.
+[2023.05.26-13.12.39:668][209]LogViewport: Scene viewport resized to 1821x414, mode Windowed.
+[2023.05.26-13.12.39:789][211]LogViewport: Scene viewport resized to 1821x452, mode Windowed.
+[2023.05.26-13.12.39:882][213]LogViewport: Scene viewport resized to 1821x465, mode Windowed.
+[2023.05.26-13.12.39:925][215]LogViewport: Scene viewport resized to 1821x475, mode Windowed.
+[2023.05.26-13.12.39:966][217]LogViewport: Scene viewport resized to 1821x503, mode Windowed.
+[2023.05.26-13.12.40:012][219]LogViewport: Scene viewport resized to 1821x581, mode Windowed.
+[2023.05.26-13.12.40:042][220]LogViewport: Scene viewport resized to 1821x647, mode Windowed.
+[2023.05.26-13.12.40:092][222]LogViewport: Scene viewport resized to 1821x742, mode Windowed.
+[2023.05.26-13.12.40:135][224]LogViewport: Scene viewport resized to 1821x783, mode Windowed.
+[2023.05.26-13.12.40:178][226]LogViewport: Scene viewport resized to 1821x808, mode Windowed.
+[2023.05.26-13.12.40:221][228]LogViewport: Scene viewport resized to 1821x823, mode Windowed.
+[2023.05.26-13.12.42:550][367]LogViewport: Scene viewport resized to 1821x800, mode Windowed.
+[2023.05.26-13.12.42:639][369]LogViewport: Scene viewport resized to 1821x635, mode Windowed.
+[2023.05.26-13.12.42:738][371]LogViewport: Scene viewport resized to 1821x499, mode Windowed.
+[2023.05.26-13.12.42:784][373]LogViewport: Scene viewport resized to 1821x473, mode Windowed.
+[2023.05.26-13.12.42:816][374]LogViewport: Scene viewport resized to 1821x458, mode Windowed.
+[2023.05.26-13.12.42:859][376]LogViewport: Scene viewport resized to 1821x439, mode Windowed.
+[2023.05.26-13.12.42:900][378]LogViewport: Scene viewport resized to 1821x422, mode Windowed.
+[2023.05.26-13.12.42:943][380]LogViewport: Scene viewport resized to 1821x398, mode Windowed.
+[2023.05.26-13.12.42:984][382]LogViewport: Scene viewport resized to 1821x392, mode Windowed.
+[2023.05.26-13.12.43:073][387]LogViewport: Scene viewport resized to 1821x387, mode Windowed.
+[2023.05.26-13.12.43:152][389]LogViewport: Scene viewport resized to 1821x365, mode Windowed.
+[2023.05.26-13.12.43:208][391]LogViewport: Scene viewport resized to 1821x330, mode Windowed.
+[2023.05.26-13.12.43:250][393]LogViewport: Scene viewport resized to 1821x322, mode Windowed.
+[2023.05.26-13.12.43:372][400]LogViewport: Scene viewport resized to 1821x318, mode Windowed.
+[2023.05.26-13.12.43:519][406]LogViewport: Scene viewport resized to 1821x312, mode Windowed.
+[2023.05.26-13.12.43:675][412]LogViewport: Scene viewport resized to 1821x286, mode Windowed.
+[2023.05.26-13.12.43:770][414]LogViewport: Scene viewport resized to 1821x168, mode Windowed.
+[2023.05.26-13.12.43:868][416]LogViewport: Scene viewport resized to 1821x114, mode Windowed.
+[2023.05.26-13.12.43:914][418]LogViewport: Scene viewport resized to 1821x103, mode Windowed.
+[2023.05.26-13.12.43:957][420]LogViewport: Scene viewport resized to 1821x90, mode Windowed.
+[2023.05.26-13.12.43:983][421]LogViewport: Scene viewport resized to 1821x84, mode Windowed.
+[2023.05.26-13.12.44:008][422]LogViewport: Scene viewport resized to 1821x75, mode Windowed.
+[2023.05.26-13.12.44:050][424]LogViewport: Scene viewport resized to 1821x61, mode Windowed.
+[2023.05.26-13.12.44:091][426]LogViewport: Scene viewport resized to 1821x54, mode Windowed.
+[2023.05.26-13.12.44:299][438]LogViewport: Scene viewport resized to 1821x75, mode Windowed.
+[2023.05.26-13.12.44:382][440]LogViewport: Scene viewport resized to 1821x125, mode Windowed.
+[2023.05.26-13.12.44:469][441]LogViewport: Scene viewport resized to 1821x204, mode Windowed.
+[2023.05.26-13.12.44:510][443]LogViewport: Scene viewport resized to 1821x248, mode Windowed.
+[2023.05.26-13.12.44:556][445]LogViewport: Scene viewport resized to 1821x338, mode Windowed.
+[2023.05.26-13.12.44:599][447]LogViewport: Scene viewport resized to 1821x410, mode Windowed.
+[2023.05.26-13.12.44:648][449]LogViewport: Scene viewport resized to 1821x491, mode Windowed.
+[2023.05.26-13.12.44:677][450]LogViewport: Scene viewport resized to 1821x561, mode Windowed.
+[2023.05.26-13.12.44:723][452]LogViewport: Scene viewport resized to 1821x643, mode Windowed.
+[2023.05.26-13.12.44:773][454]LogViewport: Scene viewport resized to 1821x717, mode Windowed.
+[2023.05.26-13.12.44:816][456]LogViewport: Scene viewport resized to 1821x768, mode Windowed.
+[2023.05.26-13.12.44:858][458]LogViewport: Scene viewport resized to 1821x795, mode Windowed.
+[2023.05.26-13.12.44:900][460]LogViewport: Scene viewport resized to 1821x820, mode Windowed.
+[2023.05.26-13.12.44:943][462]LogViewport: Scene viewport resized to 1821x837, mode Windowed.
+[2023.05.26-13.12.44:991][464]LogViewport: Scene viewport resized to 1821x849, mode Windowed.
+[2023.05.26-13.12.45:054][467]LogViewport: Scene viewport resized to 1821x848, mode Windowed.
+[2023.05.26-13.12.45:242][475]Cmd: SELECT NONE
+[2023.05.26-13.12.45:837][510]Cmd: SELECT NONE
+[2023.05.26-13.12.46:810][568]Cmd: SELECT NONE
+[2023.05.26-13.12.47:051][582]Cmd: SELECT NONE
+[2023.05.26-13.12.47:383][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.12.47:383][599]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.05.26-13.12.47:383][599]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.12.47:383][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.12.47:394][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.12.47:402][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.12.47:476][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.12.47:477][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.05.26-13.12.47:480][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.05.26-13.12.47:485][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.12.47:488][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.26-13.12.47:521][600]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.05.26-13.12.47:672][609]Cmd: SELECT NONE
+[2023.05.26-13.12.55:283][ 45]LogViewport: Scene viewport resized to 1821x818, mode Windowed.
+[2023.05.26-13.12.55:373][ 46]LogViewport: Scene viewport resized to 1821x600, mode Windowed.
+[2023.05.26-13.12.55:424][ 47]LogViewport: Scene viewport resized to 1821x544, mode Windowed.
+[2023.05.26-13.12.55:485][ 49]LogViewport: Scene viewport resized to 1821x530, mode Windowed.
+[2023.05.26-13.12.55:535][ 51]LogViewport: Scene viewport resized to 1821x510, mode Windowed.
+[2023.05.26-13.12.55:583][ 53]LogViewport: Scene viewport resized to 1821x503, mode Windowed.
+[2023.05.26-13.12.57:075][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.26-13.12.57:180][109]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.26-13.12.57:180][109]Cmd: MAP LOAD FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.26-13.12.57:181][109]LightingResults: New page: Lighting Build
+[2023.05.26-13.12.57:181][109]LoadErrors: New page: Loading map: Bag_Bgt.umap
+[2023.05.26-13.12.57:184][109]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.12.57:184][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.12.57:184][109]MapCheck: New page: Map Check
+[2023.05.26-13.12.57:184][109]LightingResults: New page: Lighting Build
+[2023.05.26-13.12.57:260][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.12.57:266][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.26-13.12.57:270][109]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.12.57:270][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.12.57:346][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.26-13.12.57:426][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.26-13.12.57:461][109]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bag_Bgt'.
+[2023.05.26-13.12.57:462][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.12.57:462][109]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.12.57:481][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.26-13.12.57:558][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.26-13.12.57:587][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.26-13.12.57:588][109]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,279ms to complete.
+[2023.05.26-13.12.57:588][109]LogFileHelpers: Loading map 'Bag_Bgt' took 0.407
+[2023.05.26-13.12.58:840][136]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.12.58:840][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.12.58:861][136]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.12.58:861][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.13.02:517][250]LogViewport: Scene viewport resized to 1821x520, mode Windowed.
+[2023.05.26-13.13.02:690][252]LogViewport: Scene viewport resized to 1821x711, mode Windowed.
+[2023.05.26-13.13.02:765][253]LogViewport: Scene viewport resized to 1821x765, mode Windowed.
+[2023.05.26-13.13.02:880][255]LogViewport: Scene viewport resized to 1821x788, mode Windowed.
+[2023.05.26-13.13.02:975][256]LogViewport: Scene viewport resized to 1821x792, mode Windowed.
+[2023.05.26-13.13.04:009][286]LogViewport: Scene viewport resized to 1762x792, mode Windowed.
+[2023.05.26-13.13.04:165][288]LogViewport: Scene viewport resized to 1527x792, mode Windowed.
+[2023.05.26-13.13.04:270][290]LogViewport: Scene viewport resized to 1509x792, mode Windowed.
+[2023.05.26-13.13.04:385][292]LogViewport: Scene viewport resized to 1504x792, mode Windowed.
+[2023.05.26-13.13.04:488][294]LogViewport: Scene viewport resized to 1470x792, mode Windowed.
+[2023.05.26-13.13.04:674][295]LogViewport: Scene viewport resized to 1123x792, mode Windowed.
+[2023.05.26-13.13.07:041][363]LogViewport: Scene viewport resized to 1136x792, mode Windowed.
+[2023.05.26-13.13.07:206][365]LogViewport: Scene viewport resized to 1388x792, mode Windowed.
+[2023.05.26-13.13.07:285][366]LogViewport: Scene viewport resized to 1506x792, mode Windowed.
+[2023.05.26-13.13.07:408][368]LogViewport: Scene viewport resized to 1531x792, mode Windowed.
+[2023.05.26-13.13.29:202][978]LogViewport: Scene viewport resized to 1531x771, mode Windowed.
+[2023.05.26-13.13.29:342][980]LogViewport: Scene viewport resized to 1531x677, mode Windowed.
+[2023.05.26-13.13.29:454][982]LogViewport: Scene viewport resized to 1531x659, mode Windowed.
+[2023.05.26-13.13.29:558][984]LogViewport: Scene viewport resized to 1531x625, mode Windowed.
+[2023.05.26-13.13.29:664][986]LogViewport: Scene viewport resized to 1531x602, mode Windowed.
+[2023.05.26-13.13.29:775][988]LogViewport: Scene viewport resized to 1531x593, mode Windowed.
+[2023.05.26-13.13.29:876][990]LogViewport: Scene viewport resized to 1531x579, mode Windowed.
+[2023.05.26-13.13.29:984][992]LogViewport: Scene viewport resized to 1531x568, mode Windowed.
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: ================================================
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: Total job queries 104, among them cache hits 28 (26.92%)
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: Tracking 76 distinct input hashes that result in 57 distinct outputs (75.00%)
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: RAM used: 0.54 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.26-13.13.32:284][ 61]LogShaderCompilers: Display: ================================================
+[2023.05.26-13.13.33:470][ 83]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.13.33:470][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.13.35:348][149]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.13.35:349][149]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.13.35:350][149]LogViewport: Scene viewport resized to 1071x877, mode Windowed.
+[2023.05.26-13.13.46:329][707]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/DrillMachine/hdd_rig.hdd_rig
+[2023.05.26-13.13.46:335][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.13.46:430][707]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.05.26-13.13.46:465][707]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.05.26-13.13.46:704][707]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-13.13.46:704][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.13.46:704][707]MaterialEditorStats: Shader Count: 0
+[2023.05.26-13.13.46:714][707]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.05.26-13.13.46:892][709]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.13.46:892][709]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.13.46:892][709]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.13.46:892][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.13.46:892][709]MaterialEditorStats: Shader Count: 4
+[2023.05.26-13.13.52:437][878]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-13.13.52:437][878]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.13.52:437][878]MaterialEditorStats: Shader Count: 0
+[2023.05.26-13.13.52:495][880]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.13.52:495][880]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.13.52:495][880]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.13.52:495][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.13.52:495][880]MaterialEditorStats: Shader Count: 4
+[2023.05.26-13.13.53:317][900]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-13.13.53:332][900]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-13.13.53:332][900]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.13.53:332][900]MaterialEditorStats: Shader Count: 0
+[2023.05.26-13.13.53:358][902]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.13.53:358][902]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.13.53:358][902]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.13.53:358][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.13.53:358][902]MaterialEditorStats: Shader Count: 4
+[2023.05.26-13.13.54:845][965]LogMaterialEditor: Applying material hdd_rig
+[2023.05.26-13.13.55:609][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.26-13.13.55:913][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.26-13.13.55:961][965]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.13.55:961][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.13.55:961][965]MaterialEditorStats: Shader Count: 4
+[2023.05.26-13.13.55:992][967]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.13.55:992][967]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.13.55:992][967]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.13.55:992][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.13.55:992][967]MaterialEditorStats: Shader Count: 8
+[2023.05.26-13.13.58:874][ 58]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.13.58:874][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.13.58:901][ 58]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.13.58:901][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.14.00:460][ 98]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.14.00:460][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.14.01:384][133]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.14.01:384][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.14.01:413][133]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.14.01:413][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.14.09:475][409]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-13.14.09:475][409]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.09:475][409]MaterialEditorStats: Shader Count: 0
+[2023.05.26-13.14.09:511][411]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.14.09:511][411]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.14.09:511][411]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.14.09:511][411]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.09:511][411]MaterialEditorStats: Shader Count: 4
+[2023.05.26-13.14.10:698][442]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-13.14.10:711][442]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-13.14.10:711][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.10:711][442]MaterialEditorStats: Shader Count: 0
+[2023.05.26-13.14.10:736][444]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.14.10:736][444]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.14.10:736][444]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.14.10:736][444]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.10:736][444]MaterialEditorStats: Shader Count: 2
+[2023.05.26-13.14.15:042][592]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-13.14.15:042][592]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.15:042][592]MaterialEditorStats: Shader Count: 0
+[2023.05.26-13.14.15:085][594]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.14.15:085][594]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.14.15:085][594]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.14.15:085][594]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.15:085][594]MaterialEditorStats: Shader Count: 4
+[2023.05.26-13.14.16:643][637]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-13.14.16:656][637]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-13.14.16:656][637]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.16:656][637]MaterialEditorStats: Shader Count: 0
+[2023.05.26-13.14.16:684][639]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.14.16:684][639]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.14.16:684][639]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.14.16:684][639]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.16:684][639]MaterialEditorStats: Shader Count: 2
+[2023.05.26-13.14.17:882][691]LogMaterialEditor: Applying material hdd_rig
+[2023.05.26-13.14.18:562][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.26-13.14.18:821][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.26-13.14.18:852][691]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.14.18:852][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.18:852][691]MaterialEditorStats: Shader Count: 4
+[2023.05.26-13.14.18:875][693]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.26-13.14.18:875][693]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.05.26-13.14.18:875][693]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-13.14.18:875][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.26-13.14.18:875][693]MaterialEditorStats: Shader Count: 6
+[2023.05.26-13.15.45:193][366]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.26-13.15.45:205][366]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.26-13.15.45:217][367]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.26-13.15.48:310][464]LogContentBrowser: Attempting asset rename: NewFolder -> drill_rig
+[2023.05.26-13.15.48:311][464]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.26-13.16.02:657][580]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 //thepeoplegroup.nl/Data/Users/mbassa/Desktop/uploads_files_4185838_formats/formats/hddrig.fbx)
+[2023.05.26-13.16.03:555][580]LogFbx: Loading FBX Scene from //thepeoplegroup.nl/Data/Users/mbassa/Desktop/uploads_files_4185838_formats/formats/hddrig.fbx
+[2023.05.26-13.16.03:575][580]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.26-13.16.24:426][580]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.26-13.16.24:640][580]LogFbxMaterialImport: Display: Unable to find Texture file D:\work\built to bore\hdd rig\hdd rig_Base_color.jpg
+[2023.05.26-13.16.24:641][580]LogFbxMaterialImport: Display: Unable to find Texture file D:\work\built to bore\hdd rig\hdd rig_Roughness.jpg
+[2023.05.26-13.16.24:641][580]LogFbxMaterialImport: Display: Unable to find Texture file D:\work\built to bore\hdd rig\hdd rig_Normal.jpg
+[2023.05.26-13.16.24:646][580]LogFbx: Display: Triangulating static mesh Cube.108
+[2023.05.26-13.16.25:072][580]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.26-13.16.25:181][582]LogMaterial: Display: Material /Game/Models/Directional_Boring/drill_rig/hdd_rig.hdd_rig needed to have new flag set bUsedWithNanite !
+[2023.05.26-13.16.28:349][660]LogSlate: Window 'Message Log' being destroyed
+[2023.05.26-13.16.28:407][660]LogSlate: Window 'Message Log' being destroyed
+[2023.05.26-13.16.29:595][693]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Directional_Boring/drill_rig/hddrig.hddrig
+[2023.05.26-13.16.29:603][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.16.30:081][693]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.05.26-13.16.38:799][ 20]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.16.38:799][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.16.40:243][ 76]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.16.40:243][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.16.48:288][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.26-13.16.50:456][255]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.26-13.16.50:545][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.26-13.16.50:592][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.26-13.16.50:637][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.05.26-13.17.11:847][298]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2023.05.26-13.17.11:867][298]LogInterchangeEngine: [Pending] Importing
+[2023.05.26-13.17.11:911][299]LogInterchangeEngine: [Pending] Importing
+[2023.05.26-13.17.12:634][311]LogTexture: Display: Building textures: /Game/Models/Directional_Boring/drill_rig/hdd_rig_Normal.hdd_rig_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.26-13.17.12:684][311]LogTexture: Display: Building textures: /Game/Models/Directional_Boring/drill_rig/hdd_rig_Base_color.hdd_rig_Base_color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.26-13.17.12:720][311]LogStaticMesh: Display: Building static mesh Plane...
+[2023.05.26-13.17.12:742][311]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Directional_Boring/drill_rig/Plane.Plane
+[2023.05.26-13.17.12:752][311]LogTexture: Display: Building textures: /Game/Models/Directional_Boring/drill_rig/hdd_rig_Metallic-hdd_rig_Roughness.hdd_rig_Metallic-hdd_rig_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.26-13.17.12:857][311]LogStaticMesh: Display: Building static mesh Cube_108...
+[2023.05.26-13.17.13:048][311]LogInterchangeEngine: [Success] Import Done
+[2023.05.26-13.17.13:099][312]LogInterchangeEngine: [Success] Import Done
+[2023.05.26-13.17.13:227][313]LogTexture: Display: Waiting for textures to be ready 0/3 (/Game/Models/Directional_Boring/drill_rig/hdd_rig_Normal) ...
+[2023.05.26-13.17.13:637][313]LogStaticMesh: Built static mesh [0.78s] /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108
+[2023.05.26-13.17.13:701][313]LogStaticMesh: Warning: Cube_108 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.26-13.17.13:701][313]LogStaticMesh: Warning: Cube_108 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.05.26-13.17.13:701][313]LogStaticMesh: Warning: Cube_108 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.26-13.17.14:133][313]LogTexture: Display: Waiting for textures to be ready 1/3 (/Game/Models/Directional_Boring/drill_rig/hdd_rig_Base_color) ...
+[2023.05.26-13.17.14:682][324]LogShaderCompilers: Display: ================================================
+[2023.05.26-13.17.14:682][324]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.26-13.17.14:682][324]LogShaderCompilers: Display: Total job queries 252, among them cache hits 136 (53.97%)
+[2023.05.26-13.17.14:682][324]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 81 distinct outputs (72.32%)
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: RAM used: 0.82 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Jobs assigned 5, completed 1 (20.00%)
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.11 s
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Job execution time: average 1.44 s, max 1.44 s
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Job life time (pending + execution): average 1.52 s, max 1.52
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.52 s
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Average processing rate: 0.66 jobs/sec
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Total thread time: 0.66 s
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Total thread preprocess time: 0.07 s
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Percentage time preprocessing: 10.56%
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Effective parallelization: 0.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2023.05.26-13.17.14:683][324]LogShaderCompilers: Display: ================================================
+[2023.05.26-13.17.21:026][481]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108
+[2023.05.26-13.17.21:032][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.17.21:539][481]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.05.26-13.17.27:033][689]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.17.27:033][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.17.32:553][925]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.32:554][925]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.32:576][925]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.32:577][925]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.45:345][432]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.45:345][432]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.45:408][432]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.45:409][432]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.55:016][946]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.55:016][946]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.55:039][946]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.17.55:040][946]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.15:596][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.16:699][ 67]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.16:815][ 74]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.16:982][ 84]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.17:050][ 88]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.17:230][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.20:265][245]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.21:024][269]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.22:432][350]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.24:120][451]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.29:465][759]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.32:361][916]BlueprintLog: New page: Compile BP_DirectionalBoringMachine
+[2023.05.26-13.18.32:372][916]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.32:442][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.26-13.18.32:458][916]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.32:458][916]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.32:463][916]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.32:463][916]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.32:496][916]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.32:497][916]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.33:395][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.18.33:564][945]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachine
+[2023.05.26-13.18.33:566][945]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachineC776C17F4A3A7E5C8CD426B1C05F6A09.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset'
+[2023.05.26-13.18.33:596][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 4.30 sec)
+[2023.05.26-13.18.33:603][945]AssetCheck: New page: Asset Save: BP_DirectionalBoringMachine
+[2023.05.26-13.18.33:603][945]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.18.34:987][986]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.18.35:008][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.18.35:008][986]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 17:18:35)
+[2023.05.26-13.18.35:008][986]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.18.35:017][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007819s)
+[2023.05.26-13.18.35:017][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.007860s)
+[2023.05.26-13.18.35:017][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.18.35:017][986]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.18.35:017][986]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2023.05.26-13.18.35:064][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.05.26-13.18.35:069][986]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.05.26-13.18.35:069][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.18.35:070][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.18.35:070][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.18.35:070][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.18.35:070][986]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.18.35:070][986]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.18.35:070][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.18.35:070][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.18.35:070][986]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.18.35:070][986]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.18.35:070][986]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.18.35:074][986]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.18.35:096][986]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.18.35:097][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.18.35:097][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.18.35:097][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.18.35:098][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.05.26-13.18.35:098][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.05.26-13.18.35:102][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.05.26-13.18.35:102][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.05.26-13.18.35:102][986]LogInit: FAudioDevice initialized.
+[2023.05.26-13.18.35:102][986]LogAudio: Display: Audio Device (ID: 16) registered with world 'Bag_Bgt'.
+[2023.05.26-13.18.35:107][986]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.18.35:107][986]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-15.18.35
+[2023.05.26-13.18.35:107][986]LogWorld: Bringing up level for play took: 0.001266
+[2023.05.26-13.18.35:111][986]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.05.26-13.18.35:117][986]PIE: Server logged in
+[2023.05.26-13.18.35:118][986]PIE: Play in editor total start time 0,111 seconds.
+[2023.05.26-13.18.46:279][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.18.46:279][362]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.18.46:280][362]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.18.46:280][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.18.46:308][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.18.46:314][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.18.46:359][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.18.46:360][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.05.26-13.18.46:362][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.05.26-13.18.46:368][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.18.46:372][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.26-13.18.46:430][363]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.05.26-13.18.56:516][866]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.56:565][869]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.56:581][870]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.56:665][875]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.56:698][877]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.56:749][880]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.56:816][884]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.56:915][890]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.56:982][894]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.57:048][898]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.57:098][901]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.57:149][904]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.57:232][909]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.18.57:348][916]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:127][526]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:210][531]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:244][533]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:311][537]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:361][540]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:378][541]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:395][542]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:411][543]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:444][545]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:495][548]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:527][550]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:610][555]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:678][559]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:712][561]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:761][564]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:794][566]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:876][571]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.08:994][578]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.09:144][587]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.09:510][609]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.12:230][770]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.12:247][771]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.12:397][780]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.12:597][792]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.12:697][798]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.12:763][802]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.12:797][804]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.15:930][981]BlueprintLog: New page: Compile BP_DirectionalBoringMachine
+[2023.05.26-13.19.15:940][981]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.16:011][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.26-13.19.16:021][981]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.16:021][981]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.16:027][981]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.16:027][981]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.16:064][981]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.16:065][981]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.16:494][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.19.16:662][995]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachine
+[2023.05.26-13.19.16:665][995]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachine8278DDFD4A6635C774E7E0A837133138.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset'
+[2023.05.26-13.19.16:693][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 4.50 sec)
+[2023.05.26-13.19.16:700][995]AssetCheck: New page: Asset Save: BP_DirectionalBoringMachine
+[2023.05.26-13.19.16:700][995]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.19.19:457][ 82]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.19.19:478][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.19.19:478][ 82]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 17:19:19)
+[2023.05.26-13.19.19:478][ 82]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.19.19:487][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008994s)
+[2023.05.26-13.19.19:487][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.009034s)
+[2023.05.26-13.19.19:487][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.19.19:488][ 82]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.19.19:488][ 82]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2023.05.26-13.19.19:533][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.26-13.19.19:539][ 82]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.05.26-13.19.19:539][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.19.19:539][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.19.19:539][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.19.19:539][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.19.19:539][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.19.19:539][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.19.19:539][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.19.19:539][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.19.19:540][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.19.19:540][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.19.19:540][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.19.19:543][ 82]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.19.19:564][ 82]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.19.19:565][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.19.19:565][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.19.19:565][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.19.19:565][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.05.26-13.19.19:565][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.05.26-13.19.19:568][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.05.26-13.19.19:568][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.05.26-13.19.19:568][ 82]LogInit: FAudioDevice initialized.
+[2023.05.26-13.19.19:568][ 82]LogAudio: Display: Audio Device (ID: 17) registered with world 'Bag_Bgt'.
+[2023.05.26-13.19.19:574][ 82]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.19.19:575][ 82]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-15.19.19
+[2023.05.26-13.19.19:575][ 82]LogWorld: Bringing up level for play took: 0.001286
+[2023.05.26-13.19.19:578][ 82]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.05.26-13.19.19:583][ 82]PIE: Server logged in
+[2023.05.26-13.19.19:584][ 82]PIE: Play in editor total start time 0,107 seconds.
+[2023.05.26-13.19.23:348][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.19.23:349][203]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.19.23:349][203]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.19.23:349][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.19.23:374][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.19.23:381][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.19.23:422][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.19.23:423][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.05.26-13.19.23:426][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.05.26-13.19.23:432][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.19.23:435][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.26-13.19.23:482][204]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.05.26-13.19.23:582][206]Cmd: SELECT NONE
+[2023.05.26-13.19.23:742][212]Cmd: SELECT NONE
+[2023.05.26-13.19.24:722][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108
+[2023.05.26-13.19.24:722][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108
+[2023.05.26-13.19.24:723][231]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108 as actor: StaticMeshActor /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.StaticMeshActor_0
+[2023.05.26-13.19.25:053][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108
+[2023.05.26-13.19.25:053][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108
+[2023.05.26-13.19.25:055][240]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108 as actor: StaticMeshActor /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.StaticMeshActor_1
+[2023.05.26-13.19.25:563][258]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.26-13.19.35:292][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.26-13.19.36:955][556]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.26-13.19.38:867][614]Cmd: DELETE
+[2023.05.26-13.19.38:867][614]Cmd: ACTOR DELETE
+[2023.05.26-13.19.38:873][614]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.26-13.19.38:919][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.26-13.19.38:924][614]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2023.05.26-13.19.46:486][878]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.46:487][878]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.46:509][878]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.46:509][878]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.57:511][402]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.57:511][402]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.57:574][402]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.19.57:575][402]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.20.00:073][498]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.26-13.20.01:943][524]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.20.01:944][524]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.20.15:993][ 67]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.20.15:999][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.20.16:413][ 67]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.05.26-13.20.21:434][225]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/DrillMachine/hddrig) ...
+[2023.05.26-13.20.21:455][225]LogMaterial: Display: Material /Game/Models/Directional_Boring/drill_rig/hdd_rig.hdd_rig needed to have new flag set bUsedWithNanite !
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: ================================================
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Total job queries 318, among them cache hits 142 (44.65%)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Tracking 153 distinct input hashes that result in 102 distinct outputs (66.67%)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: RAM used: 1.08 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Shaders Compiled: 7
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100.00%)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Average time worker was idle: 0.43 s
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.11 s
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 2.05 s
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Job life time (pending + execution): average 1.52 s, max 2.14
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.87 s
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Average processing rate: 2.44 jobs/sec
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Total thread time: 4.53 s
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Total thread preprocess time: 0.61 s
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Percentage time preprocessing: 13.45%
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Effective parallelization: 1.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.11 sec, max 1.11 sec, min 1.11 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.51% of total time (compiled    1 times, average 1.11 sec, max 1.11 sec, min 1.11 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.21% of total time (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.94% of total time (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.64% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.11% of total time (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2023.05.26-13.20.21:536][225]LogShaderCompilers: Display: ================================================
+[2023.05.26-13.20.28:565][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.20.28:830][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/DrillMachine/hddrig" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/DrillMachine/hddrig.uasset" SILENT=true
+[2023.05.26-13.20.28:921][437]LogSavePackage: Moving output files for package: /Game/Models/DrillMachine/hddrig
+[2023.05.26-13.20.28:923][437]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/hddrigF9F27FE84786274B97A1A3ACFFA795CE.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/DrillMachine/hddrig.uasset'
+[2023.05.26-13.20.28:986][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 420 ms (total: 4.92 sec)
+[2023.05.26-13.20.28:999][437]AssetCheck: New page: Asset Save: hddrig
+[2023.05.26-13.20.28:999][437]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.20.30:018][458]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.20.30:019][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.20.35:133][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.20.35:133][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.20.35:133][677]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/DrillMachine/hddrig.hddrig as actor: StaticMeshActor /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.StaticMeshActor_2
+[2023.05.26-13.20.35:499][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.20.35:499][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.20.35:501][685]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/DrillMachine/hddrig.hddrig as actor: StaticMeshActor /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.StaticMeshActor_3
+[2023.05.26-13.20.39:516][811]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.26-13.20.47:537][ 66]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.26-13.20.55:218][271]LogViewport: Scene viewport resized to 1049x568, mode Windowed.
+[2023.05.26-13.20.55:315][272]LogEditorViewport: Clicking Background
+[2023.05.26-13.21.08:496][758]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.26-13.21.14:689][978]LogStaticMesh: Display: Building static mesh hddrig...
+[2023.05.26-13.21.14:705][978]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/DrillMachine/hddrig) ...
+[2023.05.26-13.21.14:931][978]LogStaticMesh: Adjacency [0.00s], tris: 18604, UVs 2
+[2023.05.26-13.21.14:980][978]LogStaticMesh: Clustering [0.05s]. Ratio: 1.013699
+[2023.05.26-13.21.14:984][978]LogStaticMesh: Leaves [0.00s]
+[2023.05.26-13.21.15:435][978]LogStaticMesh: Reduce [0.45s]
+[2023.05.26-13.21.15:453][978]LogStaticMesh: ConstrainClusters:
+[2023.05.26-13.21.15:453][978]LogStaticMesh:   Input: 304 Clusters, 38252 Triangles and 57812 Vertices
+[2023.05.26-13.21.15:453][978]LogStaticMesh:   Output without splits: 304 Clusters, 38252 Triangles and 57816 Vertices
+[2023.05.26-13.21.15:453][978]LogStaticMesh:   Output with splits: 329 Clusters, 38252 Triangles and 57837 Vertices
+[2023.05.26-13.21.15:455][978]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 329, Slow Path Clusters: 0, 1 Material: 329, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.05.26-13.21.15:470][978]LogStaticMesh: WritePages:
+[2023.05.26-13.21.15:470][978]LogStaticMesh:   Root: GPU size: 31908 bytes. 1 Pages. 31908.000 bytes per page (97.375% utilization).
+[2023.05.26-13.21.15:470][978]LogStaticMesh:   Streaming: GPU size: 796144 bytes. 7 Pages (7 with relative encoding). 113734.859 bytes per page (86.773% utilization).
+[2023.05.26-13.21.15:470][978]LogStaticMesh:   Page data disk size: 632908 bytes. Fixup data size: 2504 bytes.
+[2023.05.26-13.21.15:470][978]LogStaticMesh:   Total GPU size: 828052 bytes, Total disk size: 635412 bytes.
+[2023.05.26-13.21.15:470][978]LogStaticMesh: Encode [0.04s]
+[2023.05.26-13.21.15:471][978]LogStaticMesh: Nanite build [0.49s]
+
+[2023.05.26-13.21.15:842][978]LogStaticMesh: Built static mesh [1.15s] /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.21.15:875][978]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=33.634 Y=-47.330 Z=6.362, BoxExtent=(X=44.543 Y=94.878 Z=20.835), SphereRadius=(106.864718)) and MeshDescription Bounds (Origin=X=67.268 Y=-94.661 Z=12.723, BoxExtent=(X=10.909 Y=47.548 Z=14.473), SphereRadius=(49.518001)) is significative for StaticMesh /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.21.17:950][ 35]LogViewport: Scene viewport resized to 1531x568, mode Windowed.
+[2023.05.26-13.21.19:862][ 95]Cmd: DELETE
+[2023.05.26-13.21.19:862][ 95]Cmd: ACTOR DELETE
+[2023.05.26-13.21.19:867][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.26-13.21.20:015][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.05.26-13.21.20:030][ 95]LogEditorActor: Deleted 1 Actors (0.168 secs)
+[2023.05.26-13.21.32:110][608]BlueprintLog: New page: Compile BP_DirectionalBoringMachine
+[2023.05.26-13.21.32:121][608]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.21.32:254][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.26-13.21.32:277][608]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.21.32:277][608]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.21.32:282][608]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.21.32:283][608]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.21.32:325][608]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.21.32:326][608]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.21.32:678][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.21.32:825][623]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachine
+[2023.05.26-13.21.32:828][623]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachine259489824867A2C92544A2B789D1CF74.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset'
+[2023.05.26-13.21.32:856][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 5.10 sec)
+[2023.05.26-13.21.32:866][623]AssetCheck: New page: Asset Save: BP_DirectionalBoringMachine
+[2023.05.26-13.21.32:866][623]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.21.40:885][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.05.26-13.21.41:870][852]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.26-13.21.42:029][852]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Directional_Boring/drill_rig/Cube_108.Cube_108
+	Asset Type: StaticMesh
+[2023.05.26-13.21.42:501][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.26-13.21.42:551][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.26-13.21.42:602][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.26-13.21.47:276][992]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.21.47:300][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.21.47:300][992]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 17:21:47)
+[2023.05.26-13.21.47:300][992]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.21.47:308][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007915s)
+[2023.05.26-13.21.47:308][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.007965s)
+[2023.05.26-13.21.47:308][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.21.47:309][992]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.21.47:310][992]LogPlayLevel: PIE: World Init took: (0.002088s)
+[2023.05.26-13.21.47:363][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.26-13.21.47:367][992]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.05.26-13.21.47:367][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.21.47:367][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.21.47:367][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.21.47:367][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.21.47:367][992]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.21.47:367][992]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.21.47:367][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.21.47:367][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.21.47:367][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.21.47:367][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.21.47:367][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.21.47:371][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.21.47:395][992]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.21.47:395][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.21.47:395][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.21.47:395][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.21.47:396][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.05.26-13.21.47:396][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.05.26-13.21.47:398][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.05.26-13.21.47:398][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.05.26-13.21.47:398][992]LogInit: FAudioDevice initialized.
+[2023.05.26-13.21.47:398][992]LogAudio: Display: Audio Device (ID: 18) registered with world 'Bag_Bgt'.
+[2023.05.26-13.21.47:403][992]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.21.47:405][992]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-15.21.47
+[2023.05.26-13.21.47:405][992]LogWorld: Bringing up level for play took: 0.001481
+[2023.05.26-13.21.47:407][992]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.05.26-13.21.47:413][992]PIE: Server logged in
+[2023.05.26-13.21.47:414][992]PIE: Play in editor total start time 0,114 seconds.
+[2023.05.26-13.21.54:807][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.21.54:807][235]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.21.54:808][235]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.21.54:808][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.21.54:834][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.21.54:841][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.21.54:890][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.21.54:891][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.05.26-13.21.54:894][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.05.26-13.21.54:904][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.26-13.21.54:945][236]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.05.26-13.22.04:434][536]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.04:435][536]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.06:356][631]BlueprintLog: New page: Compile BP_DirectionalBoringMachine
+[2023.05.26-13.22.06:366][631]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.06:441][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.26-13.22.06:451][631]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.06:451][631]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.06:457][631]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.06:457][631]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.06:490][631]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.06:491][631]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.06:861][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.22.07:027][643]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachine
+[2023.05.26-13.22.07:031][643]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachine8385BE03469F35D254B8CA86433B5230.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset'
+[2023.05.26-13.22.07:060][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 5.30 sec)
+[2023.05.26-13.22.07:070][643]AssetCheck: New page: Asset Save: BP_DirectionalBoringMachine
+[2023.05.26-13.22.07:070][643]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.22.07:716][665]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.22.07:737][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.22.07:737][665]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 17:22:07)
+[2023.05.26-13.22.07:737][665]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.22.07:746][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008504s)
+[2023.05.26-13.22.07:746][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.008538s)
+[2023.05.26-13.22.07:746][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.22.07:746][665]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.22.07:747][665]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2023.05.26-13.22.07:799][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.26-13.22.07:804][665]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.05.26-13.22.07:804][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.22.07:804][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.22.07:804][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.22.07:804][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.22.07:804][665]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.22.07:804][665]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.22.07:804][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.22.07:804][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.22.07:805][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.22.07:805][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.22.07:805][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.22.07:808][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.22.07:827][665]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.22.07:828][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.22.07:828][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.22.07:828][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.22.07:828][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.05.26-13.22.07:829][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.05.26-13.22.07:831][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.05.26-13.22.07:831][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.05.26-13.22.07:831][665]LogInit: FAudioDevice initialized.
+[2023.05.26-13.22.07:831][665]LogAudio: Display: Audio Device (ID: 19) registered with world 'Bag_Bgt'.
+[2023.05.26-13.22.07:836][665]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.22.07:838][665]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-15.22.07
+[2023.05.26-13.22.07:838][665]LogWorld: Bringing up level for play took: 0.001373
+[2023.05.26-13.22.07:840][665]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.05.26-13.22.07:846][665]PIE: Server logged in
+[2023.05.26-13.22.07:847][665]PIE: Play in editor total start time 0,11 seconds.
+[2023.05.26-13.22.14:427][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.22.14:427][890]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.22.14:428][890]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.22.14:428][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.22.14:443][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.22.14:450][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.22.14:498][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.22.14:499][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.05.26-13.22.14:502][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.05.26-13.22.14:512][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.26-13.22.14:556][891]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.05.26-13.22.19:644][143]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.19:644][143]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.25:043][433]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.25:044][433]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.29:561][651]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.31:923][784]BlueprintLog: New page: Compile BP_DirectionalBoringMachine
+[2023.05.26-13.22.31:934][784]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.32:008][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.26-13.22.32:016][784]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.32:016][784]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.32:022][784]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.32:022][784]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.32:053][784]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.32:054][784]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.32:461][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.22.32:614][798]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachine
+[2023.05.26-13.22.32:618][798]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachineE7A75F724A1E60590F664F8B7B6DF333.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset'
+[2023.05.26-13.22.32:644][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 5.48 sec)
+[2023.05.26-13.22.32:653][798]AssetCheck: New page: Asset Save: BP_DirectionalBoringMachine
+[2023.05.26-13.22.32:653][798]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.22.34:794][864]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.22.34:814][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.22.34:814][864]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 17:22:34)
+[2023.05.26-13.22.34:814][864]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.22.34:822][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007732s)
+[2023.05.26-13.22.34:822][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.007767s)
+[2023.05.26-13.22.34:822][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.22.34:823][864]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.22.34:823][864]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2023.05.26-13.22.34:876][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.26-13.22.34:881][864]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.05.26-13.22.34:881][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.22.34:881][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.22.34:881][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.22.34:881][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.22.34:881][864]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.22.34:881][864]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.22.34:881][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.22.34:881][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.22.34:881][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.22.34:882][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.22.34:882][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.22.34:885][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.22.34:907][864]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.22.34:907][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.22.34:907][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.22.34:907][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.22.34:907][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.05.26-13.22.34:907][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.05.26-13.22.34:910][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.05.26-13.22.34:910][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.05.26-13.22.34:910][864]LogInit: FAudioDevice initialized.
+[2023.05.26-13.22.34:910][864]LogAudio: Display: Audio Device (ID: 20) registered with world 'Bag_Bgt'.
+[2023.05.26-13.22.34:916][864]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.22.34:917][864]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-15.22.34
+[2023.05.26-13.22.34:917][864]LogWorld: Bringing up level for play took: 0.001301
+[2023.05.26-13.22.34:920][864]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.05.26-13.22.34:925][864]PIE: Server logged in
+[2023.05.26-13.22.34:926][864]PIE: Play in editor total start time 0,112 seconds.
+[2023.05.26-13.22.41:167][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.22.41:167][ 65]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.22.41:167][ 65]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.22.41:167][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.22.41:203][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.22.41:210][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.22.41:263][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.22.41:264][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.05.26-13.22.41:266][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.05.26-13.22.41:272][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.22.41:276][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.26-13.22.41:317][ 66]Cmd: SELECT NONE
+[2023.05.26-13.22.41:317][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.05.26-13.22.47:963][338]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.48:779][362]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.49:657][388]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.52:742][535]BlueprintLog: New page: Compile BP_DirectionalBoringMachine
+[2023.05.26-13.22.52:752][535]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.52:828][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.26-13.22.52:837][535]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.52:838][535]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.52:843][535]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.52:843][535]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.52:875][535]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.52:876][535]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.22.53:314][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.22.53:475][554]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachine
+[2023.05.26-13.22.53:478][554]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachineCDBEC2514FA35E3CCCED4C9E414DC20F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset'
+[2023.05.26-13.22.53:505][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 5.67 sec)
+[2023.05.26-13.22.53:514][554]AssetCheck: New page: Asset Save: BP_DirectionalBoringMachine
+[2023.05.26-13.22.53:514][554]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.22.54:754][600]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.22.54:775][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.22.54:775][600]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 17:22:54)
+[2023.05.26-13.22.54:775][600]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.22.54:785][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009569s)
+[2023.05.26-13.22.54:785][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.009605s)
+[2023.05.26-13.22.54:785][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.22.54:786][600]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.22.54:786][600]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2023.05.26-13.22.54:841][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.26-13.22.54:846][600]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.05.26-13.22.54:846][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.22.54:846][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.22.54:846][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.22.54:846][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.22.54:846][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.22.54:847][600]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.22.54:847][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.22.54:847][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.22.54:847][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.22.54:847][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.22.54:847][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.22.54:850][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.22.54:872][600]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.22.54:873][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.22.54:873][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.22.54:873][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.22.54:873][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.05.26-13.22.54:873][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.05.26-13.22.54:876][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.05.26-13.22.54:876][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.05.26-13.22.54:876][600]LogInit: FAudioDevice initialized.
+[2023.05.26-13.22.54:876][600]LogAudio: Display: Audio Device (ID: 21) registered with world 'Bag_Bgt'.
+[2023.05.26-13.22.54:880][600]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.22.54:882][600]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-15.22.54
+[2023.05.26-13.22.54:882][600]LogWorld: Bringing up level for play took: 0.001459
+[2023.05.26-13.22.54:885][600]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.05.26-13.22.54:891][600]PIE: Server logged in
+[2023.05.26-13.22.54:893][600]PIE: Play in editor total start time 0,118 seconds.
+[2023.05.26-13.23.02:067][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.23.02:067][839]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.23.02:068][839]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.23.02:068][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.23.02:111][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.23.02:119][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.23.02:167][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.23.02:168][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.05.26-13.23.02:170][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.05.26-13.23.02:175][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.23.02:179][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.26-13.23.02:220][840]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.05.26-13.23.05:235][991]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.05:317][996]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.05:418][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.05:584][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.05:834][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:028][ 97]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:078][100]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:111][102]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:162][105]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:211][108]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:278][112]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:345][116]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:378][118]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:411][120]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:462][123]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:478][124]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:495][125]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:512][126]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:529][127]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:545][128]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:562][129]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:595][131]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:628][133]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:645][134]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:694][137]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:778][142]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:827][145]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:878][148]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.07:894][149]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:606][308]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:622][309]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:639][310]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:671][312]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:739][316]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:804][320]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:822][321]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:839][322]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:889][325]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:922][327]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.10:955][329]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.11:071][336]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.13:373][472]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.13:774][496]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.16:427][653]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.16:494][657]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.16:593][663]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.16:910][682]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.17:528][719]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.20:042][857]BlueprintLog: New page: Compile BP_DirectionalBoringMachine
+[2023.05.26-13.23.20:053][857]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.20:130][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.26-13.23.20:138][857]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.20:138][857]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.20:144][857]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.20:144][857]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.20:179][857]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.20:181][857]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.20:596][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.23.20:756][870]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachine
+[2023.05.26-13.23.20:759][870]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachine25C57BEE4D4FD847410FB2BBBD5AA1A6.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset'
+[2023.05.26-13.23.20:787][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 5.86 sec)
+[2023.05.26-13.23.20:795][870]AssetCheck: New page: Asset Save: BP_DirectionalBoringMachine
+[2023.05.26-13.23.20:795][870]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.23.21:854][913]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.23.21:877][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.23.21:877][913]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 17:23:21)
+[2023.05.26-13.23.21:877][913]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.23.21:885][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007705s)
+[2023.05.26-13.23.21:885][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.007738s)
+[2023.05.26-13.23.21:885][913]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.23.21:886][913]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.23.21:886][913]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2023.05.26-13.23.21:937][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.26-13.23.21:941][913]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.05.26-13.23.21:942][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.23.21:942][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.23.21:942][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.23.21:942][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.23.21:942][913]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.23.21:942][913]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.23.21:942][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.23.21:942][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.23.21:942][913]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.23.21:942][913]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.23.21:942][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.23.21:946][913]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.23.21:967][913]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.23.21:967][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.23.21:967][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.23.21:967][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.23.21:967][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.05.26-13.23.21:968][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.05.26-13.23.21:970][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.05.26-13.23.21:970][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.05.26-13.23.21:970][913]LogInit: FAudioDevice initialized.
+[2023.05.26-13.23.21:970][913]LogAudio: Display: Audio Device (ID: 22) registered with world 'Bag_Bgt'.
+[2023.05.26-13.23.21:975][913]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.23.21:976][913]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-15.23.21
+[2023.05.26-13.23.21:976][913]LogWorld: Bringing up level for play took: 0.001103
+[2023.05.26-13.23.21:979][913]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.05.26-13.23.21:985][913]PIE: Server logged in
+[2023.05.26-13.23.21:986][913]PIE: Play in editor total start time 0,109 seconds.
+[2023.05.26-13.23.28:198][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.23.28:198][123]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.23.28:198][123]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.23.28:198][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.23.28:230][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.23.28:238][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.23.28:287][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.23.28:288][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.05.26-13.23.28:292][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.05.26-13.23.28:296][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.23.28:300][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.26-13.23.28:343][124]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.05.26-13.23.29:778][185]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.29:828][188]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.29:878][191]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.29:928][194]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.30:027][200]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.30:094][204]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.30:144][207]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.30:211][211]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.30:294][216]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.30:444][225]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.30:594][234]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.31:441][273]BlueprintLog: New page: Compile BP_DirectionalBoringMachine
+[2023.05.26-13.23.31:452][273]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.31:529][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.26-13.23.31:536][273]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.31:537][273]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.31:542][273]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.31:542][273]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.31:574][273]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.31:575][273]LogPhysics: Warning: Scale for /Engine/Transient.World_36:PersistentLevel.BP_DirectionalBoringMachine_C_0.planeMachine has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.05.26-13.23.33:499][332]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-13.23.33:518][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-13.23.33:518][332]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 17:23:33)
+[2023.05.26-13.23.33:518][332]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.23.33:528][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009776s)
+[2023.05.26-13.23.33:528][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.009823s)
+[2023.05.26-13.23.33:528][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-13.23.33:529][332]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-13.23.33:529][332]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2023.05.26-13.23.33:582][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.26-13.23.33:587][332]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.05.26-13.23.33:587][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-13.23.33:587][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-13.23.33:588][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-13.23.33:588][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-13.23.33:588][332]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-13.23.33:588][332]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-13.23.33:588][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-13.23.33:588][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-13.23.33:588][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-13.23.33:588][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-13.23.33:588][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-13.23.33:591][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-13.23.33:613][332]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-13.23.33:613][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-13.23.33:613][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-13.23.33:613][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-13.23.33:614][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.05.26-13.23.33:614][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.05.26-13.23.33:616][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.05.26-13.23.33:616][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.05.26-13.23.33:616][332]LogInit: FAudioDevice initialized.
+[2023.05.26-13.23.33:617][332]LogAudio: Display: Audio Device (ID: 23) registered with world 'Bag_Bgt'.
+[2023.05.26-13.23.33:622][332]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-13.23.33:623][332]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-15.23.33
+[2023.05.26-13.23.33:623][332]LogWorld: Bringing up level for play took: 0.001091
+[2023.05.26-13.23.33:626][332]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.05.26-13.23.33:631][332]PIE: Server logged in
+[2023.05.26-13.23.33:632][332]PIE: Play in editor total start time 0,114 seconds.
+[2023.05.26-13.28.35:300][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.28.35:301][290]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-13.28.35:301][290]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-13.28.35:301][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.28.35:334][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-13.28.35:342][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-13.28.35:392][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-13.28.35:393][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.05.26-13.28.35:396][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.05.26-13.28.35:404][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-13.28.35:408][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.26-13.28.35:448][291]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.05.26-13.28.36:337][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.05.26-13.28.38:792][315]LogSlate: Window 'Save Content' being destroyed
+[2023.05.26-13.28.38:842][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-13.28.38:898][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-13.28.38:948][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.05.26-13.28.39:005][315]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.05.26-13.28.39:009][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_BgtBCE95269484C1BD9701FCBB4B4B44742.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.05.26-13.28.39:042][315]LogFileHelpers: Saving map 'Bag_Bgt' took 0.145
+[2023.05.26-13.28.39:163][315]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachine
+[2023.05.26-13.28.39:166][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachine218620E543225635710511846AF6B09C.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset'
+[2023.05.26-13.28.39:205][315]LogShaderCompilers: Display: ================================================
+[2023.05.26-13.28.39:205][315]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.26-13.28.39:205][315]LogShaderCompilers: Display: Total job queries 337, among them cache hits 161 (47.77%)
+[2023.05.26-13.28.39:205][315]LogShaderCompilers: Display: Tracking 176 distinct input hashes that result in 121 distinct outputs (68.75%)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: RAM used: 1.32 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Shaders Compiled: 30
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100.00%)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Average time worker was idle: 93.19 s
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Time job spent in pending queue: average 0.42 s, longest 3.88 s
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Job execution time: average 4.15 s, max 6.85 s
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Job life time (pending + execution): average 4.57 s, max 6.95
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.82 s
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.67 jobs/batch
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Average processing rate: 3.05 jobs/sec
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Total thread time: 43.25 s
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Total thread preprocess time: 2.34 s
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Percentage time preprocessing: 5.40%
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Effective parallelization: 4.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.99 sec, max 2.71 sec, min 1.26 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.94 sec, max 2.64 sec, min 1.24 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.89 sec, max 2.47 sec, min 1.30 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.88 sec, max 2.41 sec, min 1.36 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.88 sec, max 2.47 sec, min 1.28 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.18% of total time (compiled    2 times, average 1.99 sec, max 2.71 sec, min 1.26 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.96% of total time (compiled    2 times, average 1.94 sec, max 2.64 sec, min 1.24 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 8.72% of total time (compiled    2 times, average 1.89 sec, max 2.47 sec, min 1.30 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.71% of total time (compiled    2 times, average 1.88 sec, max 2.41 sec, min 1.36 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.67% of total time (compiled    2 times, average 1.88 sec, max 2.47 sec, min 1.28 sec)
+[2023.05.26-13.28.39:206][315]LogShaderCompilers: Display: ================================================
+[2023.05.26-13.28.39:255][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/DrillMachine/hdd_rig" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/DrillMachine/hdd_rig.uasset" SILENT=true
+[2023.05.26-13.28.39:264][315]LogSavePackage: Moving output files for package: /Game/Models/DrillMachine/hdd_rig
+[2023.05.26-13.28.39:267][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/hdd_rig5197082B41757C55B521CE8DC4CBFE51.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/DrillMachine/hdd_rig.uasset'
+[2023.05.26-13.28.39:302][315]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/drill_rig/hdd_rig
+[2023.05.26-13.28.39:302][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/hdd_rigB0EA156B4AF1E5DF8859C08C116EEB64.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig.uasset'
+[2023.05.26-13.28.39:752][315]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/drill_rig/hdd_rig_Base_color
+[2023.05.26-13.28.39:752][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/hdd_rig_Base_color3AF5BCDC4BC7A0C9289231B16202DBB5.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig_Base_color.uasset'
+[2023.05.26-13.28.40:156][315]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/drill_rig/hdd_rig_Metallic-hdd_rig_Roughness
+[2023.05.26-13.28.40:156][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/hdd_rig_Metallic-hdd_rig_Roughne276001664A14B91335D7ECBBD5DCFEC1.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig_Metallic-hdd_rig_Roughness.uasset'
+[2023.05.26-13.28.40:537][315]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/drill_rig/hdd_rig_Normal
+[2023.05.26-13.28.40:537][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/hdd_rig_NormalD345622C48D30519C5D53B9C48BB4838.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig_Normal.uasset'
+[2023.05.26-13.28.40:619][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/DrillMachine/hddrig" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/DrillMachine/hddrig.uasset" SILENT=true
+[2023.05.26-13.28.40:703][315]LogSavePackage: Moving output files for package: /Game/Models/DrillMachine/hddrig
+[2023.05.26-13.28.40:706][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/hddrig0C19A7A04855592226D087832E519AE3.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/DrillMachine/hddrig.uasset'
+[2023.05.26-13.28.40:760][315]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/drill_rig/Plane
+[2023.05.26-13.28.40:760][315]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/PlaneAC79F85D4B9387DE78D07B9D5ED8AC19.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/Plane.uasset'
+[2023.05.26-13.28.40:791][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.94 sec (total: 7.81 sec)
+[2023.05.26-13.28.40:810][315]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/DrillMachine/hdd_rig.hdd_rig
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/DrillMachine/hddrig.hddrig
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_DirectionalBoringMachine.BP_DirectionalBoringMachine
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Directional_Boring/drill_rig/hdd_rig.hdd_rig
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/Directional_Boring/drill_rig/Plane.Plane
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/Directional_Boring/drill_rig/hdd_rig_Metallic-hdd_rig_Roughness.hdd_rig_Metallic-hdd_rig_Roughness
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/Directional_Boring/drill_rig/hdd_rig_Base_color.hdd_rig_Base_color
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/Directional_Boring/drill_rig/hdd_rig_Normal.hdd_rig_Normal
+[2023.05.26-13.28.40:810][315]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt

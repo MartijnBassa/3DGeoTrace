@@ -7,7 +7,16 @@
 			"files": [
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset",
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/ManualInterface.uasset",
-				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/Icons/mouse-left-button.uasset"
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/Icons/mouse-left-button.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachine.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/DrillMachine/hddrig.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/DrillMachine/hdd_rig.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig_Base_color.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig_Metallic-hdd_rig_Roughness.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig_Normal.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/Plane.uasset"
 			]
 		}
 	]
