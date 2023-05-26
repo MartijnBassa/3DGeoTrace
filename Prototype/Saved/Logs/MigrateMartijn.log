@@ -4198,3 +4198,204 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2023.05.26-14.10.48:955][278]LogPlayLevel: Display: Destroying online subsystem :Context_58
 [2023.05.26-14.10.50:015][313]Cmd: SELECT NONE
 [2023.05.26-14.10.50:246][317]Cmd: SELECT NONE
+[2023.05.26-14.12.57:129][826]LogMaterialEditor: Saving and Compiling material hdd_rig
+[2023.05.26-14.12.57:132][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-14.12.57:261][826]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/drill_rig/hdd_rig
+[2023.05.26-14.12.57:264][826]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/hdd_rig30370F03486CF2EE8137B5B8A5C48F7F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/drill_rig/hdd_rig.uasset'
+[2023.05.26-14.12.57:305][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 8.29 sec)
+[2023.05.26-14.12.57:314][826]AssetCheck: New page: Asset Save: hdd_rig
+[2023.05.26-14.12.57:314][826]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Directional_Boring/drill_rig/hdd_rig.hdd_rig
+[2023.05.26-14.20.21:425][629]Cmd: DELETE
+[2023.05.26-14.20.21:425][629]Cmd: ACTOR DELETE
+[2023.05.26-14.20.21:445][629]LogEditorActor: Deleted Actor: BP_GoodSky_C
+[2023.05.26-14.20.21:526][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.26-14.20.21:543][629]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2023.05.26-14.20.25:929][784]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2023.05.26-14.20.25:930][784]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2023.05.26-14.20.25:935][784]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.BP_GoodSky_C_0
+[2023.05.26-14.20.25:940][784]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.BP_GoodSky_C_0
+[2023.05.26-14.20.28:940][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2023.05.26-14.20.28:940][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2023.05.26-14.20.28:947][916]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.BP_GoodSky_C_2
+[2023.05.26-14.20.28:951][916]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.BP_GoodSky_C_2
+[2023.05.26-14.21.39:418][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.26-14.21.39:487][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Bag_Bgt_Auto4
+[2023.05.26-14.21.39:487][559]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_Bgt_Auto4308E6183463BE406BF4862B7BF4811BD.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/Levels/Bag_Bgt_Auto4.umap'
+[2023.05.26-14.21.39:501][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Bag_Bgt' took 0.173
+[2023.05.26-14.21.39:501][559]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.173
+[2023.05.26-14.22.54:272][164]LogEditorViewport: Clicking Background
+[2023.05.26-14.23.11:704][882]Cmd: DELETE
+[2023.05.26-14.23.11:704][882]Cmd: ACTOR DELETE
+[2023.05.26-14.23.11:763][882]LogEditorActor: Deleted Actor: BP_GoodSky_C
+[2023.05.26-14.23.11:828][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.05.26-14.23.11:836][882]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2023.05.26-14.23.39:384][847]LogEditorViewport: Clicking Background
+[2023.05.26-14.26.26:076][198]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-14.26.26:095][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-14.26.26:095][198]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 18:26:26)
+[2023.05.26-14.26.26:095][198]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-14.26.26:104][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008589s)
+[2023.05.26-14.26.26:104][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.008638s)
+[2023.05.26-14.26.26:104][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-14.26.26:105][198]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-14.26.26:105][198]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2023.05.26-14.26.26:174][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.26-14.26.26:179][198]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.05.26-14.26.26:179][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-14.26.26:180][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-14.26.26:180][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-14.26.26:180][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-14.26.26:180][198]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-14.26.26:180][198]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-14.26.26:180][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-14.26.26:180][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-14.26.26:180][198]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-14.26.26:180][198]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-14.26.26:180][198]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-14.26.26:183][198]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-14.26.26:207][198]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-14.26.26:207][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-14.26.26:207][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-14.26.26:207][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-14.26.26:208][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.05.26-14.26.26:208][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.05.26-14.26.26:210][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.05.26-14.26.26:210][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.05.26-14.26.26:211][198]LogInit: FAudioDevice initialized.
+[2023.05.26-14.26.26:211][198]LogAudio: Display: Audio Device (ID: 28) registered with world 'Bag_Bgt'.
+[2023.05.26-14.26.26:216][198]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-14.26.26:216][198]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-16.26.26
+[2023.05.26-14.26.26:217][198]LogWorld: Bringing up level for play took: 0.000896
+[2023.05.26-14.26.26:219][198]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.05.26-14.26.26:226][198]PIE: Server logged in
+[2023.05.26-14.26.26:227][198]PIE: Play in editor total start time 0,132 seconds.
+[2023.05.26-14.27.04:376][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-14.27.04:376][435]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-14.27.04:376][435]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-14.27.04:376][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-14.27.04:416][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-14.27.04:424][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-14.27.04:486][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-14.27.04:487][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.05.26-14.27.04:490][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.05.26-14.27.04:509][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.05.26-14.27.04:551][436]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.05.26-14.27.05:370][461]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.1/Engine/Build/BatchFiles/Build.bat -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.1/Engine/Intermediate/TargetInfo.json"]
+[2023.05.26-14.27.05:599][461]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.1/Engine/Build/BatchFiles/Build.bat -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.1/Engine/Intermediate/TargetInfo.json"]
+[2023.05.26-14.27.05:707][461]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2023.05.26-14.27.21:608][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.26-14.27.21:615][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-14.27.21:670][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-14.27.21:729][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.26-14.27.21:775][749]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.05.26-14.27.21:778][749]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_BgtEBB526C74D3A8D6DDDF1978CF0A9F4AA.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.05.26-14.27.21:811][749]LogFileHelpers: Saving map 'Bag_Bgt' took 0.142
+[2023.05.26-14.27.21:836][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 8.51 sec)
+[2023.05.26-14.27.34:620][749]LogTurnkeySupport: Project requires temp target (GeometryFlow plugin is enabled)
+[2023.05.26-14.27.34:620][749]LogLauncherProfile: Unable to use promoted target - ../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Binaries/Win64/UnrealGame.target does not exist.
+[2023.05.26-14.27.34:669][749]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.1/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/mbassa/Git/3DGeoTrace/Prototype/MigrateMartijn.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=53879  -project="C:/Users/mbassa/Git/3DGeoTrace/Prototype/MigrateMartijn.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/mbassa/Git/3DGeoTrace/Prototype/MigrateMartijn.uproject"  -unrealexe="C:\Program Files\Epic Games\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="//thepeoplegroup.nl/Data/Users/mbassa/Desktop/Builds/26 may"" -nocompile -nocompileuat ]
+[2023.05.26-14.27.34:723][749]AssetCheck: New page: Asset Save: Bag_Bgt
+[2023.05.26-14.27.34:723][749]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.26-14.27.34:732][749]UATHelper: Packaging (Windows): Running AutomationTool...
+[2023.05.26-14.27.34:853][749]UATHelper: Packaging (Windows): Using bundled DotNet SDK version: 6.0.302
+[2023.05.26-14.27.34:985][749]UATHelper: Packaging (Windows): Starting AutomationTool...
+[2023.05.26-14.27.35:007][749]UATHelper: Packaging (Windows): Parsing command line: -ScriptsForProject=C:/Users/mbassa/Git/3DGeoTrace/Prototype/MigrateMartijn.uproject Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=53879 -project=C:/Users/mbassa/Git/3DGeoTrace/Prototype/MigrateMartijn.uproject BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project=C:/Users/mbassa/Git/3DGeoTrace/Prototype/MigrateMartijn.uproject -unrealexe="C:\Program Files\Epic Games\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="//thepeoplegroup.nl/Data/Users/mbassa/Desktop/Builds/26 may" -nocompile -nocompileuat
+[2023.05.26-14.27.35:106][749]UATHelper: Packaging (Windows): Initializing script modules...
+[2023.05.26-14.27.35:468][750]UATHelper: Packaging (Windows): Total script module initialization time: 0.37 s.
+[2023.05.26-14.27.35:556][752]UATHelper: Packaging (Windows): WARNING: Error while enumerating Visual Studio toolchains
+[2023.05.26-14.27.35:562][753]PackagingResults: Warning: Error while enumerating Visual Studio toolchains
+[2023.05.26-14.27.35:654][755]UATHelper: Packaging (Windows): WARNING: Assuming no compilation capability for NET Framework projects.
+[2023.05.26-14.27.35:658][756]PackagingResults: Warning: Assuming no compilation capability for NET Framework projects.
+[2023.05.26-14.27.35:929][764]UATHelper: Packaging (Windows): Executing commands...
+[2023.05.26-14.27.35:985][765]UATHelper: Packaging (Windows): Installed Sdk validity:
+[2023.05.26-14.27.35:985][765]UATHelper: Packaging (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2023.05.26-14.27.35:995][766]UATHelper: Packaging (Windows): Scanning for envvar changes...
+[2023.05.26-14.27.35:995][766]UATHelper: Packaging (Windows): ... done! 
+[2023.05.26-14.27.35:995][766]UATHelper: Packaging (Windows): Cleaning Temp Paths...
+[2023.05.26-14.27.35:995][766]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2023.05.26-14.27.35:995][766]UATHelper: Packaging (Windows): Setting up ProjectParams for C:\Users\mbassa\Git\3DGeoTrace\Prototype\MigrateMartijn.uproject
+[2023.05.26-14.27.36:380][777]UATHelper: Packaging (Windows): MigrateMartijn.uproject requires a temporary target.cs to be generated (GeometryFlow plugin is enabled)
+[2023.05.26-14.27.36:556][783]UATHelper: Packaging (Windows): ERROR: C:\Users\mbassa\Git\3DGeoTrace\Prototype\MigrateMartijn.uproject does not look like uproject file but no targets have been found!
+[2023.05.26-14.27.36:556][783]UATHelper: Packaging (Windows):        (see C:\Users\mbassa\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.1\Log.txt for full exception trace)
+[2023.05.26-14.27.36:558][783]PackagingResults: Error: C:\Users\mbassa\Git\3DGeoTrace\Prototype\MigrateMartijn.uproject does not look like uproject file but no targets have been found!
+[2023.05.26-14.27.36:567][783]UATHelper: Packaging (Windows): AutomationTool executed for 0h 0m 1s
+[2023.05.26-14.27.36:567][783]UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=1 (Error_Unknown)
+[2023.05.26-14.27.36:623][785]UATHelper: Packaging (Windows): BUILD FAILED
+[2023.05.26-14.27.36:649][785]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave CompileFailed...
+[2023.05.26-14.27.36:650][785]PackagingResults: Error: Unknown Error
+[2023.05.26-14.27.36:655][785]LogAudio: Display: Chunk size for SoundWave /Engine/EditorSounds/Notifications/CompileFailed.CompileFailed: 262144
+[2023.05.26-14.31.55:608][472]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-14.31.55:608][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-14.31.56:473][498]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-14.31.56:473][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-14.32.30:928][468]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.26-14.32.30:948][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-14.32.30:948][468]PIE: New page: PIE session: Bag_Bgt (26 mei 2023 18:32:30)
+[2023.05.26-14.32.30:948][468]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-14.32.30:957][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009329s)
+[2023.05.26-14.32.30:957][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.009402s)
+[2023.05.26-14.32.30:957][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-14.32.30:958][468]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.26-14.32.30:959][468]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2023.05.26-14.32.31:118][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.05.26-14.32.31:139][468]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.05.26-14.32.31:139][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-14.32.31:140][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-14.32.31:140][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-14.32.31:140][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-14.32.31:140][468]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.26-14.32.31:140][468]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.26-14.32.31:140][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.26-14.32.31:140][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-14.32.31:140][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-14.32.31:140][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-14.32.31:140][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-14.32.31:144][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.26-14.32.31:169][468]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.26-14.32.31:170][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-14.32.31:170][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-14.32.31:170][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-14.32.31:171][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.05.26-14.32.31:171][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.05.26-14.32.31:173][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.05.26-14.32.31:173][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.05.26-14.32.31:173][468]LogInit: FAudioDevice initialized.
+[2023.05.26-14.32.31:173][468]LogAudio: Display: Audio Device (ID: 29) registered with world 'Bag_Bgt'.
+[2023.05.26-14.32.31:178][468]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.26-14.32.31:179][468]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.26-16.32.31
+[2023.05.26-14.32.31:179][468]LogWorld: Bringing up level for play took: 0.000903
+[2023.05.26-14.32.31:182][468]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.05.26-14.32.31:191][468]PIE: Server logged in
+[2023.05.26-14.32.31:192][468]PIE: Play in editor total start time 0,244 seconds.
+[2023.05.26-14.34.03:916][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-14.34.03:916][786]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.26-14.34.03:916][786]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-14.34.03:916][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-14.34.03:953][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-14.34.03:961][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-14.34.04:013][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-14.34.04:014][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.05.26-14.34.04:017][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.05.26-14.34.04:030][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.05.26-14.34.04:071][787]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.05.26-14.36.01:644][184]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.05.26-14.36.01:814][184]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9400
+[2023.05.26-14.36.02:484][186]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{68c415b1-13bf-4dd4-8eda-14786baf6eae}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=452.68
+[2023.05.26-14.36.02:484][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.26-14.36.02:488][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.26-14.45.23:912][870]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=X2483/2481 (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.26-14.45.24:158][870]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9400
+[2023.05.26-14.45.24:494][871]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e64feb08-523e-426a-b7a6-99143b98ffcd}, Name=X2483/2481 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=55.13
+[2023.05.26-14.45.24:494][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.26-14.45.24:496][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.26-14.45.49:059][945]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.05.26-14.45.49:174][945]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9400
+[2023.05.26-14.45.49:843][947]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{68c415b1-13bf-4dd4-8eda-14786baf6eae}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=439.97
+[2023.05.26-14.45.49:843][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.26-14.45.49:846][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.26-15.05.04:126][410]LogDerivedDataCache: C:/Users/mbassa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.268 and deleted 0 files with total size 0 MiB. Scanned 9713 files in 9633 folders with total size 1019 MiB.
+[2023.05.26-15.16.16:380][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=X2483/2481 (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.26-15.16.16:622][426]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9400
+[2023.05.26-15.16.16:959][427]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e64feb08-523e-426a-b7a6-99143b98ffcd}, Name=X2483/2481 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=64.03
+[2023.05.26-15.16.16:959][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.26-15.16.16:961][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
