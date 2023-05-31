@@ -7,7 +7,11 @@
 			"files": [
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
 				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/InsightsInterface.uasset",
-				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset"
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_Directional_Boring_Endpoint.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/Directional_Boring_Endpoint.uasset",
+				"C:/Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachineEndPoint.uasset"
 			]
 		}
 	]

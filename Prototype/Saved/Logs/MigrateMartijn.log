@@ -2627,3 +2627,300 @@ Make sure 'UserInterface_C' has been compiled for  Get SB_InsightContainer
 [2023.05.31-09.50.00:464][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
 [2023.05.31-09.50.00:473][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2023.05.31-09.50.00:516][546]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.05.31-09.56.10:040][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.56.10:144][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-09.56.10:223][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.05.31-09.56.10:285][325]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.05.31-09.56.10:288][325]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_Bgt23AC65C54E0A35785463BEA34EC63585.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.05.31-09.56.10:327][325]LogFileHelpers: Saving map 'Bag_Bgt' took 0.184
+[2023.05.31-09.56.10:367][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 327 ms (total: 6.86 sec)
+[2023.05.31-09.56.10:379][325]AssetCheck: New page: Asset Save: Bag_Bgt
+[2023.05.31-09.56.10:380][325]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.31-09.56.11:116][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.31-09.56.29:570][954]LogViewport: Scene viewport resized to 1550x738, mode Windowed.
+[2023.05.31-09.56.29:644][955]LogViewport: Scene viewport resized to 1550x710, mode Windowed.
+[2023.05.31-09.56.29:708][957]LogViewport: Scene viewport resized to 1550x674, mode Windowed.
+[2023.05.31-09.56.29:826][959]LogViewport: Scene viewport resized to 1550x593, mode Windowed.
+[2023.05.31-09.56.29:885][961]LogViewport: Scene viewport resized to 1550x556, mode Windowed.
+[2023.05.31-09.56.29:937][963]LogViewport: Scene viewport resized to 1550x539, mode Windowed.
+[2023.05.31-09.56.31:929][ 28]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-09.56.31:952][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-09.56.31:952][ 28]PIE: New page: PIE session: Bag_Bgt (31 mei 2023 13:56:31)
+[2023.05.31-09.56.31:952][ 28]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.56.31:960][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008286s)
+[2023.05.31-09.56.31:960][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.008342s)
+[2023.05.31-09.56.31:960][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.56.31:961][ 28]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.31-09.56.31:961][ 28]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2023.05.31-09.56.32:027][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.31-09.56.32:029][ 28]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.05.31-09.56.32:029][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-09.56.32:029][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-09.56.32:029][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-09.56.32:029][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-09.56.32:029][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-09.56.32:029][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-09.56.32:029][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-09.56.32:029][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-09.56.32:030][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-09.56.32:030][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-09.56.32:030][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-09.56.32:034][ 28]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-09.56.32:056][ 28]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.31-09.56.32:057][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-09.56.32:057][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-09.56.32:057][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-09.56.32:058][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.05.31-09.56.32:058][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.05.31-09.56.32:060][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.05.31-09.56.32:060][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.05.31-09.56.32:060][ 28]LogInit: FAudioDevice initialized.
+[2023.05.31-09.56.32:060][ 28]LogAudio: Display: Audio Device (ID: 21) registered with world 'Bag_Bgt'.
+[2023.05.31-09.56.32:065][ 28]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.31-09.56.32:067][ 28]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.31-11.56.32
+[2023.05.31-09.56.32:067][ 28]LogWorld: Bringing up level for play took: 0.001545
+[2023.05.31-09.56.32:069][ 28]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.05.31-09.56.32:075][ 28]PIE: Server logged in
+[2023.05.31-09.56.32:076][ 28]PIE: Play in editor total start time 0,125 seconds.
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: ================================================
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: Total job queries 119, among them cache hits 38 (31.93%)
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: Tracking 81 distinct input hashes that result in 64 distinct outputs (79.01%)
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: RAM used: 0.58 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.31-09.56.43:413][483]LogShaderCompilers: Display: ================================================
+[2023.05.31-09.56.49:767][707]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.05.31-09.57.11:761][491]Cmd: SELECT NONE
+[2023.05.31-09.57.11:962][498]Cmd: SELECT NONE
+[2023.05.31-09.57.12:167][505]Cmd: SELECT NONE
+[2023.05.31-09.57.12:288][509]Cmd: SELECT NONE
+[2023.05.31-09.57.12:971][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.57.12:971][531]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.57.12:971][531]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.57.12:972][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.57.12:990][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-09.57.12:997][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.57.13:066][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.57.13:067][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.05.31-09.57.13:069][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.05.31-09.57.13:079][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.05.31-09.57.13:118][532]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.05.31-09.57.20:554][792]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PlanInterface.PlanInterface
+[2023.05.31-09.57.20:555][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.57.20:601][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.57.21:097][792]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.57.21:097][792]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.57.51:891][402]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/DeleteConfirmationInterface.DeleteConfirmationInterface
+[2023.05.31-09.57.51:891][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.57.51:938][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.57.52:423][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.57.52:423][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.57.55:501][542]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_LineTrace.BP_LineTrace
+[2023.05.31-09.57.55:502][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.58.42:021][905]BlueprintLog: New page: Compile BP_LineTrace
+[2023.05.31-09.58.42:196][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.31-09.58.42:571][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.58.42:692][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LineTrace" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset" SILENT=true
+[2023.05.31-09.58.42:761][914]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_LineTrace
+[2023.05.31-09.58.42:768][914]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_LineTrace5FC2DADA46C56A5F1670A7901CEEF446.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset'
+[2023.05.31-09.58.42:796][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 7.08 sec)
+[2023.05.31-09.58.42:805][914]AssetCheck: New page: Asset Save: BP_LineTrace
+[2023.05.31-09.58.42:805][914]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_LineTrace.BP_LineTrace
+[2023.05.31-09.59.02:372][584]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-09.59.02:394][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-09.59.02:394][584]PIE: New page: PIE session: Bag_Bgt (31 mei 2023 13:59:02)
+[2023.05.31-09.59.02:394][584]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.59.02:403][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008007s)
+[2023.05.31-09.59.02:403][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.008047s)
+[2023.05.31-09.59.02:403][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.59.02:403][584]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.31-09.59.02:403][584]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2023.05.31-09.59.02:492][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.05.31-09.59.02:495][584]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.05.31-09.59.02:495][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-09.59.02:495][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-09.59.02:495][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-09.59.02:495][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-09.59.02:495][584]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-09.59.02:495][584]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-09.59.02:495][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-09.59.02:495][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-09.59.02:496][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-09.59.02:496][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-09.59.02:496][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-09.59.02:499][584]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-09.59.02:519][584]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.31-09.59.02:519][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-09.59.02:519][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-09.59.02:519][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-09.59.02:521][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.05.31-09.59.02:521][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.05.31-09.59.02:523][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.05.31-09.59.02:523][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.05.31-09.59.02:523][584]LogInit: FAudioDevice initialized.
+[2023.05.31-09.59.02:523][584]LogAudio: Display: Audio Device (ID: 22) registered with world 'Bag_Bgt'.
+[2023.05.31-09.59.02:528][584]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.31-09.59.02:529][584]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.31-11.59.02
+[2023.05.31-09.59.02:529][584]LogWorld: Bringing up level for play took: 0.001214
+[2023.05.31-09.59.02:532][584]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.05.31-09.59.02:539][584]PIE: Server logged in
+[2023.05.31-09.59.02:540][584]PIE: Play in editor total start time 0,145 seconds.
+[2023.05.31-09.59.39:899][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.59.39:899][889]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.59.39:900][889]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.59.39:900][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.59.39:922][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-09.59.39:930][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.59.40:019][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-09.59.40:020][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.05.31-09.59.40:023][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.05.31-09.59.40:028][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.59.40:033][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.05.31-09.59.40:089][890]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.05.31-09.59.40:130][892]Cmd: SELECT NONE
+[2023.05.31-09.59.40:280][898]Cmd: SELECT NONE
+[2023.05.31-09.59.56:928][435]LogShaderCompilers: Display: ================================================
+[2023.05.31-09.59.56:928][435]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.31-09.59.56:929][435]LogShaderCompilers: Display: Total job queries 121, among them cache hits 38 (31.40%)
+[2023.05.31-09.59.56:929][435]LogShaderCompilers: Display: Tracking 83 distinct input hashes that result in 65 distinct outputs (78.31%)
+[2023.05.31-09.59.56:929][435]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.05.31-09.59.56:929][435]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.31-09.59.56:929][435]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.31-09.59.56:929][435]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.31-09.59.56:929][435]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.31-09.59.56:929][435]LogShaderCompilers: Display: ================================================
+[2023.05.31-10.00.06:387][719]LogContentBrowser: Attempting asset rename: Directional_Boring_Endpoint -> BP_Directional_Boring_Endpoint
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.BP_Directional_Boring_Endpoint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.BP_Directional_Boring_Endpoint_C' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.BP_Directional_Boring_Endpoint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.BP_Directional_Boring_Endpoint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.BP_Directional_Boring_Endpoint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.SKEL_BP_Directional_Boring_Endpoint_C:ReceiveBeginPlay' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.SKEL_BP_Directional_Boring_Endpoint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.SKEL_BP_Directional_Boring_Endpoint_C:ReceiveTick' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.SKEL_BP_Directional_Boring_Endpoint_C:UserConstructionScript' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:426][719]LogMetaData: Removing '/Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.SKEL_BP_Directional_Boring_Endpoint_C' ref from Metadata '/Game/Models/Directional_Boring/Directional_Boring_Endpoint.PackageMetaData'
+[2023.05.31-10.00.06:449][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-10.00.06:507][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LineTrace" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset" SILENT=true
+[2023.05.31-10.00.06:576][719]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_LineTrace
+[2023.05.31-10.00.06:579][719]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_LineTrace5CC588F64A6B05C86F285697BDAEA9D8.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset'
+[2023.05.31-10.00.06:593][719]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint
+[2023.05.31-10.00.06:594][719]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_Directional_Boring_Endpoint9772784A487B327D41181A9371BD5010.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_Directional_Boring_Endpoint.uasset'
+[2023.05.31-10.00.06:621][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 7.26 sec)
+[2023.05.31-10.00.06:738][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.31-10.00.06:823][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.31-10.00.06:909][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.05.31-10.00.06:921][719]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.31-10.00.06:921][719]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_LineTrace.BP_LineTrace
+[2023.05.31-10.00.06:921][719]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Models/Directional_Boring/BP_Directional_Boring_Endpoint.BP_Directional_Boring_Endpoint
+[2023.05.31-10.00.11:987][882]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.05.31-10.00.12:182][889]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.05.31-10.00.12:303][895]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.05.31-10.00.12:826][910]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-10.00.12:826][910]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-10.00.12:826][910]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-10.00.51:031][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.31-10.01.16:074][937]LogSlate: Window 'Replace References?' being destroyed
+[2023.05.31-10.01.16:100][937]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with BP_Directional_Boring_Endpoint; and then delete them.
+
+Are you sure?
+[2023.05.31-10.01.16:100][937]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.31-10.01.16:200][937]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:200][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:231][937]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:231][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:369][937]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:369][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:397][937]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:397][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:511][937]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:512][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:538][937]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:538][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:655][937]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:655][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:766][937]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:766][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:787][937]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:787][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.16:897][937]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.01.16:897][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.01.17:632][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.31-10.01.17:855][937]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.05.31-10.01.18:330][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.05.31-10.01.20:262][937]LogSlate: Window 'Save Content' being destroyed
+[2023.05.31-10.01.20:308][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-10.01.20:396][937]LogSavePackage: Moving output files for package: /Game/Models/Directional_Boring/BP_DirectionalBoringMachineEndPoint
+[2023.05.31-10.01.20:403][937]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_DirectionalBoringMachineEndPoC7D97642466F225490557B82DDB0744F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Models/Directional_Boring/BP_DirectionalBoringMachineEndPoint.uasset'
+[2023.05.31-10.01.20:441][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 7.39 sec)
+[2023.05.31-10.01.20:450][937]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.31-10.01.20:450][937]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Models/Directional_Boring/BP_DirectionalBoringMachineEndPoint.Default__BP_DirectionalBoringMachineEndPoint_C
+[2023.05.31-10.01.20:450][937]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Models/Directional_Boring/BP_DirectionalBoringMachineEndPoint.BP_DirectionalBoringMachineEndPoint_C
+[2023.05.31-10.01.20:450][937]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Models/Directional_Boring/BP_DirectionalBoringMachineEndPoint.BP_DirectionalBoringMachineEndPoint
+[2023.05.31-10.01.25:067][ 59]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_LineTrace.BP_LineTrace
+[2023.05.31-10.01.25:069][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-10.01.47:382][992]BlueprintLog: New page: Compile BP_LineTrace
+[2023.05.31-10.01.47:506][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.31-10.01.47:934][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-10.01.48:058][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LineTrace" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset" SILENT=true
+[2023.05.31-10.01.48:127][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_LineTrace
+[2023.05.31-10.01.48:130][  6]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/BP_LineTrace5F24290F4484604B378A6989E0F0B8D5.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Blueprints/BP_LineTrace.uasset'
+[2023.05.31-10.01.48:160][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 7.62 sec)
+[2023.05.31-10.01.48:168][  6]AssetCheck: New page: Asset Save: BP_LineTrace
+[2023.05.31-10.01.48:168][  6]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_LineTrace.BP_LineTrace
+[2023.05.31-10.01.49:318][ 39]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-10.01.49:339][ 39]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.31-10.01.49:340][ 39]LogPlayLevel: [PlayLevel] Compiling Bag_Bgt before play...
+[2023.05.31-10.01.49:433][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.31-10.01.49:438][ 39]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (1 blueprints)
+[2023.05.31-10.01.49:438][ 39]PIE: New page: PIE session: Bag_Bgt (31 mei 2023 14:01:49)
+[2023.05.31-10.01.49:438][ 39]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-10.01.49:448][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009650s)
+[2023.05.31-10.01.49:448][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.009698s)
+[2023.05.31-10.01.49:448][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-10.01.49:448][ 39]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.31-10.01.49:449][ 39]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2023.05.31-10.01.49:491][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.31-10.01.49:493][ 39]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.05.31-10.01.49:493][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-10.01.49:493][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-10.01.49:493][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-10.01.49:493][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-10.01.49:493][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-10.01.49:493][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-10.01.49:493][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-10.01.49:493][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-10.01.49:494][ 39]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-10.01.49:494][ 39]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-10.01.49:494][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-10.01.49:498][ 39]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-10.01.49:521][ 39]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.31-10.01.49:522][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-10.01.49:522][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-10.01.49:522][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-10.01.49:522][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.05.31-10.01.49:522][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.05.31-10.01.49:524][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.05.31-10.01.49:525][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.05.31-10.01.49:525][ 39]LogInit: FAudioDevice initialized.
+[2023.05.31-10.01.49:525][ 39]LogAudio: Display: Audio Device (ID: 23) registered with world 'Bag_Bgt'.
+[2023.05.31-10.01.49:530][ 39]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.31-10.01.49:531][ 39]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.31-12.01.49
+[2023.05.31-10.01.49:531][ 39]LogWorld: Bringing up level for play took: 0.001131
+[2023.05.31-10.01.49:533][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.05.31-10.01.49:540][ 39]PIE: Server logged in
+[2023.05.31-10.01.49:541][ 39]PIE: Play in editor total start time 0,202 seconds.
+[2023.05.31-10.02.23:956][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-10.02.23:956][311]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-10.02.23:956][311]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-10.02.23:957][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.02.23:967][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-10.02.23:973][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-10.02.24:015][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-10.02.24:016][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.05.31-10.02.24:019][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.05.31-10.02.24:028][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.31-10.02.24:079][312]LogPlayLevel: Display: Destroying online subsystem :Context_55
