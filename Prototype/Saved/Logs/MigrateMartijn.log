@@ -1473,3 +1473,594 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.05.31-08.56.54:963][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 308 ms
 [2023.05.31-08.56.54:972][231]AssetCheck: New page: Asset Save: Bag_Bgt
 [2023.05.31-08.56.54:972][231]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.31-09.05.22:522][848]LogEditorViewport: Clicking Background
+[2023.05.31-09.07.40:555][722]LogViewport: Scene viewport resized to 1550x765, mode Windowed.
+[2023.05.31-09.07.40:721][724]LogViewport: Scene viewport resized to 1550x515, mode Windowed.
+[2023.05.31-09.07.40:815][726]LogViewport: Scene viewport resized to 1550x487, mode Windowed.
+[2023.05.31-09.07.41:011][729]LogViewport: Scene viewport resized to 1550x481, mode Windowed.
+[2023.05.31-09.08.22:205][ 38]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.08.22:205][ 38]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.08.22:205][ 38]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.08.24:777][ 38]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.05.31-09.08.24:826][ 38]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.31-09.08.24:832][ 38]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.31-09.08.24:854][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.31-09.08.32:015][299]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> InsightsInterface
+[2023.05.31-09.08.32:024][299]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.31-09.08.35:354][420]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.08.35:355][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.08.35:404][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.08.35:983][420]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.08.35:983][420]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.08.37:854][478]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/LegendInterface.LegendInterface
+[2023.05.31-09.08.37:854][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.08.37:903][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.08.38:376][478]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.08.38:376][478]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.08.39:801][529]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.08.39:802][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.08.39:821][529]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.08.39:821][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.08.44:155][700]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/InsightsInterface.InsightsInterface
+[2023.05.31-09.08.44:156][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.08.44:202][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.08.44:661][700]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.08.44:661][700]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.09.24:494][610]BlueprintLog: New page: Compile InsightsInterface
+[2023.05.31-09.09.24:596][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.05.31-09.09.25:532][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.09.25:650][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InsightsInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/InsightsInterface.uasset" SILENT=true
+[2023.05.31-09.09.25:665][647]LogSavePackage: Moving output files for package: /Game/UI/InsightsInterface
+[2023.05.31-09.09.25:666][647]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InsightsInterface8364C546428722105406B0B13C282AA6.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/InsightsInterface.uasset'
+[2023.05.31-09.09.25:693][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 469 ms)
+[2023.05.31-09.09.25:702][647]AssetCheck: New page: Asset Save: InsightsInterface
+[2023.05.31-09.09.25:702][647]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/InsightsInterface.InsightsInterface
+[2023.05.31-09.09.43:941][594]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.09.43:941][594]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.09.58:030][347]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.09.58:030][347]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.10.04:806][731]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Clicked (Btn_CloseInsights)  and was replaced as a Custom Event!
+[2023.05.31-09.10.35:004][798]LogEditorTransaction: Undo Add Node
+[2023.05.31-09.10.35:430][805]LogEditorTransaction: Undo Delete current selection
+[2023.05.31-09.12.01:070][920]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.12.01:070][920]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.12.04:603][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.05.31-09.12.04:605][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Bag_Bgt' took 0.081
+[2023.05.31-09.12.04:606][ 16]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UserInterface] ([2] browsable assets)...
+[2023.05.31-09.12.04:613][ 16]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UserInterface.UserInterface]
+[2023.05.31-09.12.04:613][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UserInterface]
+[2023.05.31-09.12.04:613][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/UI/UserInterface_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.05.31-09.12.04:675][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UserInterface_Auto2
+[2023.05.31-09.12.04:675][ 16]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterface_Auto2BD549E0046C0EF3CAE5B79AC4FAE50B2.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/UI/UserInterface_Auto2.uasset'
+[2023.05.31-09.12.04:682][ 16]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InsightsInterface] ([2] browsable assets)...
+[2023.05.31-09.12.04:705][ 16]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InsightsInterface.InsightsInterface]
+[2023.05.31-09.12.04:705][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InsightsInterface]
+[2023.05.31-09.12.04:705][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InsightsInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/UI/InsightsInterface_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.05.31-09.12.04:722][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/InsightsInterface_Auto2
+[2023.05.31-09.12.04:723][ 16]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InsightsInterface_Auto2E90EEDBE4E7E915900307FA55933BF75.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Autosaves/Game/UI/InsightsInterface_Auto2.uasset'
+[2023.05.31-09.12.04:726][ 16]LogFileHelpers: Auto-saving content packages took 0.121
+[2023.05.31-09.12.07:434][ 85]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.12.07:434][ 85]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.13.36:631][957]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.36:631][957]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.36:631][957]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.44:910][333]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.44:910][333]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.44:910][333]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.53:253][692]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.53:253][692]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.53:253][692]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.55:533][744]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.55:533][744]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.13.55:533][744]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.17:957][456]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.17:958][456]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.17:958][456]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.19:334][490]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.19:335][490]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.19:335][490]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.38:440][400]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.38:440][400]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.38:440][400]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.41:099][469]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.41:099][469]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.41:099][469]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.42:897][501]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.42:897][501]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.42:897][501]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.43:821][514]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.43:821][514]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.43:821][514]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.14.59:820][ 82]LogSequencer: Display: Could not paste section of type MovieScene2DTransformSection
+[2023.05.31-09.18.21:795][525]LogEditorTransaction: Undo Edit Top
+[2023.05.31-09.18.22:410][536]LogEditorTransaction: Undo Edit Top
+[2023.05.31-09.18.22:801][548]LogEditorTransaction: Undo Edit Top
+[2023.05.31-09.18.23:067][556]LogEditorTransaction: Undo Edit Top
+[2023.05.31-09.18.24:301][593]LogEditorTransaction: Undo Edit Top
+[2023.05.31-09.18.24:601][602]LogEditorTransaction: Undo Edit Top
+[2023.05.31-09.25.15:010][206]BlueprintLog: New page: Compile InsightsInterface
+[2023.05.31-09.25.15:014][206]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] Could not find a variable named "CloseButtonInsights" in 'InsightsInterface_C'.
+Make sure 'InsightsInterface_C' has been compiled for  Get CloseButtonInsights
+[2023.05.31-09.25.15:014][206]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] Could not find a variable named "CloseButtonInsights" in 'InsightsInterface_C'.
+Make sure 'InsightsInterface_C' has been compiled for  Get CloseButtonInsights
+[2023.05.31-09.25.15:014][206]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] Could not find a variable named "CloseButtonInsights" in 'InsightsInterface_C'.
+Make sure 'InsightsInterface_C' has been compiled for  Get CloseButtonInsights
+[2023.05.31-09.25.15:015][206]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] Could not find a variable named "CloseButtonInsights" in 'InsightsInterface_C'.
+Make sure 'InsightsInterface_C' has been compiled for  Get CloseButtonInsights
+[2023.05.31-09.25.15:015][206]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] The property associated with  Close Button Insights  could not be found in '/Game/UI/InsightsInterface.InsightsInterface_C'
+[2023.05.31-09.25.15:016][206]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] The property associated with  Close Button Insights  could not be found in '/Game/UI/InsightsInterface.InsightsInterface_C'
+[2023.05.31-09.25.15:016][206]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] The property associated with  Close Button Insights  could not be found in '/Game/UI/InsightsInterface.InsightsInterface_C'
+[2023.05.31-09.25.15:016][206]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\InsightsInterface.uasset: [Compiler] The property associated with  Close Button Insights  could not be found in '/Game/UI/InsightsInterface.InsightsInterface_C'
+[2023.05.31-09.25.15:131][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.05.31-09.25.27:325][711]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.25.27:325][711]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.25.40:119][386]BlueprintLog: New page: Compile InsightsInterface
+[2023.05.31-09.25.40:224][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.31-09.25.42:127][487]BlueprintLog: New page: Compile InsightsInterface
+[2023.05.31-09.25.42:231][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.31-09.25.42:362][489]BlueprintLog: New page: Compile InsightsInterface
+[2023.05.31-09.25.42:463][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.31-09.25.42:928][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.25.43:071][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InsightsInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/InsightsInterface.uasset" SILENT=true
+[2023.05.31-09.25.43:097][501]LogSavePackage: Moving output files for package: /Game/UI/InsightsInterface
+[2023.05.31-09.25.43:099][501]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/InsightsInterfaceF02C6DD54FA6EFA7E75265B2ECD18C2E.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/InsightsInterface.uasset'
+[2023.05.31-09.25.43:130][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 671 ms)
+[2023.05.31-09.25.43:140][501]AssetCheck: New page: Asset Save: InsightsInterface
+[2023.05.31-09.25.43:140][501]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/InsightsInterface.InsightsInterface
+[2023.05.31-09.26.23:369][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.26.23:369][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.26.44:462][213]BlueprintLog: New page: Compile UserInterface
+[2023.05.31-09.26.44:602][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.31-09.26.45:053][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.26.45:193][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.05.31-09.26.45:253][224]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.05.31-09.26.45:260][224]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterfaceF7141A2F4E2FAC022EE5B49879B5EB54.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.05.31-09.26.45:288][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 905 ms)
+[2023.05.31-09.26.45:297][224]AssetCheck: New page: Asset Save: UserInterface
+[2023.05.31-09.26.45:297][224]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.26.49:431][339]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.31-09.26.49:514][341]LogShaderCompilers: Display: ================================================
+[2023.05.31-09.26.49:514][341]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.31-09.26.49:514][341]LogShaderCompilers: Display: Total job queries 72, among them cache hits 16 (22.22%)
+[2023.05.31-09.26.49:514][341]LogShaderCompilers: Display: Tracking 56 distinct input hashes that result in 48 distinct outputs (85.71%)
+[2023.05.31-09.26.49:514][341]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.05.31-09.26.49:514][341]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.31-09.26.49:515][341]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.31-09.26.49:515][341]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.31-09.26.49:515][341]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.31-09.26.49:515][341]LogShaderCompilers: Display: ================================================
+[2023.05.31-09.26.49:950][345]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Bag_Bgt.Bag_Bgt:PersistentLevel.Bag_Bgt
+[2023.05.31-09.26.49:951][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.26.51:923][364]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.31-09.27.25:604][969]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.31-09.27.40:572][432]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.27.40:573][432]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.27.40:573][432]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.27.58:592][ 41]BlueprintLog: New page: Compile Bag_Bgt
+[2023.05.31-09.27.58:738][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.05.31-09.27.59:287][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.27.59:401][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-09.27.59:478][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.05.31-09.27.59:549][ 56]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.05.31-09.27.59:551][ 56]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_BgtD76B1D904A462D7903F1349B5B227F9C.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.05.31-09.27.59:587][ 56]LogFileHelpers: Saving map 'Bag_Bgt' took 0.187
+[2023.05.31-09.27.59:627][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 341 ms (total: 1.24 sec)
+[2023.05.31-09.27.59:641][ 56]AssetCheck: New page: Asset Save: Bag_Bgt
+[2023.05.31-09.27.59:641][ 56]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.31-09.28.20:994][864]BlueprintLog: New page: Compile Bag_Bgt
+[2023.05.31-09.28.21:125][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.31-09.28.21:732][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.28.21:852][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-09.28.21:923][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.31-09.28.21:981][878]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.05.31-09.28.21:984][878]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_Bgt4D58150940F20A6B02BF73A1E9C6BD6C.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.05.31-09.28.22:018][878]LogFileHelpers: Saving map 'Bag_Bgt' took 0.168
+[2023.05.31-09.28.22:043][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 311 ms (total: 1.55 sec)
+[2023.05.31-09.28.22:051][878]AssetCheck: New page: Asset Save: Bag_Bgt
+[2023.05.31-09.28.22:051][878]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.31-09.28.41:515][548]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.28.41:516][548]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.28.41:516][548]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-09.31.43:535][859]BlueprintLog: New page: Compile Bag_Bgt
+[2023.05.31-09.31.43:547][859]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\Levels\Bag_Bgt.umap: [Compiler] This blueprint (self) is not a UserInterface_C, therefore ' Target ' must have a connection.
+[2023.05.31-09.31.43:674][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.05.31-09.31.44:159][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.31.44:259][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-09.31.44:330][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.31-09.31.44:388][871]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.05.31-09.31.44:391][871]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_BgtD2C0479E4A04012E4FC71FA80ABC527F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.05.31-09.31.44:424][871]LogFileHelpers: Saving map 'Bag_Bgt' took 0.166
+[2023.05.31-09.31.44:451][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 1.85 sec)
+[2023.05.31-09.31.44:460][871]AssetCheck: New page: Asset Save: Bag_Bgt
+[2023.05.31-09.31.44:460][871]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.31-09.31.49:638][ 95]BlueprintLog: New page: Compile Bag_Bgt
+[2023.05.31-09.31.49:767][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.05.31-09.31.50:370][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.31.50:492][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-09.31.50:565][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.05.31-09.31.50:621][111]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.05.31-09.31.50:624][111]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_Bgt03D0DA8D47D2DF71365597A05D393DED.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.05.31-09.31.50:661][111]LogFileHelpers: Saving map 'Bag_Bgt' took 0.170
+[2023.05.31-09.31.50:685][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 314 ms (total: 2.16 sec)
+[2023.05.31-09.31.50:696][111]AssetCheck: New page: Asset Save: Bag_Bgt
+[2023.05.31-09.31.50:696][111]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.31-09.31.54:049][215]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-09.31.54:077][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-09.31.54:077][215]PIE: New page: PIE session: Bag_Bgt (31 mei 2023 13:31:54)
+[2023.05.31-09.31.54:077][215]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.31.54:087][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009265s)
+[2023.05.31-09.31.54:087][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.009311s)
+[2023.05.31-09.31.54:087][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.31.54:087][215]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.31-09.31.54:088][215]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2023.05.31-09.31.54:164][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.31-09.31.54:165][215]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.31-09.31.54:166][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-09.31.54:166][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-09.31.54:166][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-09.31.54:166][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-09.31.54:166][215]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-09.31.54:166][215]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-09.31.54:166][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-09.31.54:166][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-09.31.54:166][215]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-09.31.54:166][215]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-09.31.54:166][215]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-09.31.54:170][215]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-09.31.54:193][215]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.31-09.31.54:194][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-09.31.54:194][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-09.31.54:194][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-09.31.54:195][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.05.31-09.31.54:195][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.05.31-09.31.54:197][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.05.31-09.31.54:197][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.05.31-09.31.54:197][215]LogInit: FAudioDevice initialized.
+[2023.05.31-09.31.54:197][215]LogAudio: Display: Audio Device (ID: 8) registered with world 'Bag_Bgt'.
+[2023.05.31-09.31.54:202][215]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.31-09.31.54:203][215]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.31-11.31.54
+[2023.05.31-09.31.54:203][215]LogWorld: Bringing up level for play took: 0.001083
+[2023.05.31-09.31.54:206][215]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.05.31-09.31.54:212][215]PIE: Server logged in
+[2023.05.31-09.31.54:213][215]PIE: Play in editor total start time 0,136 seconds.
+[2023.05.31-09.31.56:052][284]LogViewport: Scene viewport resized to 1550x494, mode Windowed.
+[2023.05.31-09.31.56:162][285]LogViewport: Scene viewport resized to 1550x690, mode Windowed.
+[2023.05.31-09.31.56:236][286]LogViewport: Scene viewport resized to 1550x856, mode Windowed.
+[2023.05.31-09.31.56:329][288]LogViewport: Scene viewport resized to 1550x896, mode Windowed.
+[2023.05.31-09.31.56:410][289]LogViewport: Scene viewport resized to 1550x897, mode Windowed.
+[2023.05.31-09.31.57:149][331]LogViewport: Scene viewport resized to 1550x892, mode Windowed.
+[2023.05.31-09.31.57:223][332]LogViewport: Scene viewport resized to 1550x890, mode Windowed.
+[2023.05.31-09.31.57:372][334]LogViewport: Scene viewport resized to 1550x828, mode Windowed.
+[2023.05.31-09.31.57:463][335]LogViewport: Scene viewport resized to 1550x797, mode Windowed.
+[2023.05.31-09.31.57:561][340]LogViewport: Scene viewport resized to 1550x792, mode Windowed.
+[2023.05.31-09.31.57:630][341]LogViewport: Scene viewport resized to 1550x784, mode Windowed.
+[2023.05.31-09.31.57:696][343]LogViewport: Scene viewport resized to 1550x767, mode Windowed.
+[2023.05.31-09.31.57:738][344]LogViewport: Scene viewport resized to 1550x761, mode Windowed.
+[2023.05.31-09.31.57:770][345]LogViewport: Scene viewport resized to 1550x753, mode Windowed.
+[2023.05.31-09.31.57:815][347]LogViewport: Scene viewport resized to 1550x751, mode Windowed.
+[2023.05.31-09.31.57:903][351]LogViewport: Scene viewport resized to 1550x746, mode Windowed.
+[2023.05.31-09.31.59:425][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.31.59:425][403]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.31.59:426][403]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.31.59:426][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.31.59:469][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-09.31.59:478][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.31.59:557][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.31.59:558][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.31-09.31.59:560][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.31-09.31.59:570][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.31-09.31.59:610][404]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.05.31-09.32.03:325][562]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.32.03:325][562]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.32.16:144][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-09.32.16:162][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-09.32.16:162][179]PIE: New page: PIE session: Bag_Bgt (31 mei 2023 13:32:16)
+[2023.05.31-09.32.16:162][179]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.32.16:171][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008342s)
+[2023.05.31-09.32.16:171][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.008395s)
+[2023.05.31-09.32.16:171][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.32.16:171][179]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.31-09.32.16:172][179]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2023.05.31-09.32.16:248][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.31-09.32.16:250][179]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.31-09.32.16:250][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-09.32.16:250][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-09.32.16:250][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-09.32.16:250][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-09.32.16:250][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-09.32.16:250][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-09.32.16:250][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-09.32.16:250][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-09.32.16:251][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-09.32.16:251][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-09.32.16:251][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-09.32.16:255][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-09.32.16:274][179]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.31-09.32.16:275][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-09.32.16:275][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-09.32.16:275][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-09.32.16:275][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.31-09.32.16:275][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.31-09.32.16:278][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.31-09.32.16:278][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.31-09.32.16:278][179]LogInit: FAudioDevice initialized.
+[2023.05.31-09.32.16:278][179]LogAudio: Display: Audio Device (ID: 9) registered with world 'Bag_Bgt'.
+[2023.05.31-09.32.16:283][179]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.31-09.32.16:284][179]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.31-11.32.16
+[2023.05.31-09.32.16:284][179]LogWorld: Bringing up level for play took: 0.001393
+[2023.05.31-09.32.16:287][179]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.05.31-09.32.16:292][179]PIE: Server logged in
+[2023.05.31-09.32.16:293][179]PIE: Play in editor total start time 0,131 seconds.
+[2023.05.31-09.32.21:316][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.32.21:316][362]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.32.21:316][362]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.32.21:317][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.32.21:341][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-09.32.21:349][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.32.21:422][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-09.32.21:423][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.31-09.32.21:426][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.31-09.32.21:432][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.32.21:436][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.05.31-09.32.21:486][363]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.05.31-09.32.21:948][379]Cmd: SELECT NONE
+[2023.05.31-09.32.28:738][708]BlueprintLog: New page: Compile UserInterface
+[2023.05.31-09.32.28:770][708]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] On Clicked (Btn_CloseInsights)  does not have a valid matching component!
+[2023.05.31-09.32.28:774][708]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] Could not find a variable named "SB_InsightContainer" in 'UserInterface_C'.
+Make sure 'UserInterface_C' has been compiled for  Get SB_InsightContainer
+[2023.05.31-09.32.28:774][708]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] Could not find a variable named "SB_InsightContainer" in 'UserInterface_C'.
+Make sure 'UserInterface_C' has been compiled for  Get SB_InsightContainer
+[2023.05.31-09.32.28:777][708]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] The property associated with  SB Insight Container  could not be found in '/Game/UI/UserInterface.UserInterface_C'
+[2023.05.31-09.32.28:777][708]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] The property associated with  SB Insight Container  could not be found in '/Game/UI/UserInterface.UserInterface_C'
+[2023.05.31-09.32.28:889][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.31-09.32.40:404][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.32.40:496][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.05.31-09.32.40:551][269]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.05.31-09.32.40:555][269]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterfaceF3F0F62F4539B3EDE18D8EBCD6A4C5F4.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.05.31-09.32.40:585][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 2.34 sec)
+[2023.05.31-09.32.40:594][269]AssetCheck: New page: Asset Save: UserInterface
+[2023.05.31-09.32.40:594][269]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.32.41:336][300]BlueprintLog: New page: Compile UserInterface
+[2023.05.31-09.32.41:352][300]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] Could not find a variable named "SB_InsightContainer" in 'UserInterface_C'.
+Make sure 'UserInterface_C' has been compiled for  Get SB_InsightContainer
+[2023.05.31-09.32.41:352][300]LogBlueprint: Warning: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] Could not find a variable named "SB_InsightContainer" in 'UserInterface_C'.
+Make sure 'UserInterface_C' has been compiled for  Get SB_InsightContainer
+[2023.05.31-09.32.41:355][300]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] The property associated with  SB Insight Container  could not be found in '/Game/UI/UserInterface.UserInterface_C'
+[2023.05.31-09.32.41:355][300]LogBlueprint: Error: [AssetLog] C:\Users\mbassa\Git\3DGeoTrace\Prototype\Content\UI\UserInterface.uasset: [Compiler] The property associated with  SB Insight Container  could not be found in '/Game/UI/UserInterface.UserInterface_C'
+[2023.05.31-09.32.41:474][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.31-09.32.41:958][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.32.42:099][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.05.31-09.32.42:154][312]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.05.31-09.32.42:157][312]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterfaceB195B2074EF2F6CCAB2BB79BCDBFA650.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.05.31-09.32.42:186][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 2.57 sec)
+[2023.05.31-09.32.42:195][312]AssetCheck: New page: Asset Save: UserInterface
+[2023.05.31-09.32.42:195][312]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.33.08:997][897]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.33.08:997][897]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.33.10:827][  2]LogEditorTransaction: Undo Delete current selection
+[2023.05.31-09.33.11:163][  7]LogEditorTransaction: Undo Delete current selection
+[2023.05.31-09.33.11:367][  8]LogEditorTransaction: Undo Remove Widget
+[2023.05.31-09.33.13:877][ 78]BlueprintLog: New page: Compile UserInterface
+[2023.05.31-09.33.14:017][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.31-09.33.14:888][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.33.15:010][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.05.31-09.33.15:075][ 97]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.05.31-09.33.15:078][ 97]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterfaceBE8C07E94C135A23BC76BD8FB155C9BB.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.05.31-09.33.15:108][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 2.79 sec)
+[2023.05.31-09.33.15:118][ 97]AssetCheck: New page: Asset Save: UserInterface
+[2023.05.31-09.33.15:118][ 97]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.33.18:299][247]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.33.18:299][247]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.33.31:567][992]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.33.31:567][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.33.31:597][992]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.33.31:598][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.33.42:891][424]LogSlate: Window 'Delete Function' being destroyed
+[2023.05.31-09.33.56:220][ 87]BlueprintLog: New page: Compile Bag_Bgt
+[2023.05.31-09.33.56:349][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.05.31-09.33.56:857][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.33.56:978][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bag_Bgt" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-09.33.57:043][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.31-09.33.57:102][100]LogSavePackage: Moving output files for package: /Game/Levels/Bag_Bgt
+[2023.05.31-09.33.57:104][100]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/Bag_Bgt6144E17C46D3D4DABAE579AFE6555306.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap'
+[2023.05.31-09.33.57:133][100]LogFileHelpers: Saving map 'Bag_Bgt' took 0.156
+[2023.05.31-09.33.57:160][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 3.09 sec)
+[2023.05.31-09.33.57:171][100]AssetCheck: New page: Asset Save: Bag_Bgt
+[2023.05.31-09.33.57:171][100]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Bag_Bgt.Bag_Bgt
+[2023.05.31-09.34.05:007][452]BlueprintLog: New page: Compile UserInterface
+[2023.05.31-09.34.05:156][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.31-09.34.05:608][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.34.05:746][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.05.31-09.34.05:805][463]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.05.31-09.34.05:808][463]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterfaceDFC725EC4BDC4974BCA57AB65691B87F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.05.31-09.34.05:838][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 3.32 sec)
+[2023.05.31-09.34.05:850][463]AssetCheck: New page: Asset Save: UserInterface
+[2023.05.31-09.34.05:850][463]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.34.06:630][484]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-09.34.06:649][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-09.34.06:649][484]PIE: New page: PIE session: Bag_Bgt (31 mei 2023 13:34:06)
+[2023.05.31-09.34.06:649][484]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.34.06:659][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009786s)
+[2023.05.31-09.34.06:659][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.009846s)
+[2023.05.31-09.34.06:659][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.34.06:660][484]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.31-09.34.06:660][484]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.05.31-09.34.06:729][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.05.31-09.34.06:734][484]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.31-09.34.06:734][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-09.34.06:734][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-09.34.06:734][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-09.34.06:734][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-09.34.06:734][484]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-09.34.06:734][484]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-09.34.06:734][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-09.34.06:734][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-09.34.06:735][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-09.34.06:735][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-09.34.06:735][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-09.34.06:739][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-09.34.06:760][484]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.31-09.34.06:761][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-09.34.06:761][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-09.34.06:761][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-09.34.06:762][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.31-09.34.06:762][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.31-09.34.06:764][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.31-09.34.06:764][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.31-09.34.06:764][484]LogInit: FAudioDevice initialized.
+[2023.05.31-09.34.06:764][484]LogAudio: Display: Audio Device (ID: 10) registered with world 'Bag_Bgt'.
+[2023.05.31-09.34.06:769][484]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.31-09.34.06:770][484]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.31-11.34.06
+[2023.05.31-09.34.06:770][484]LogWorld: Bringing up level for play took: 0.001454
+[2023.05.31-09.34.06:773][484]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.05.31-09.34.06:778][484]PIE: Server logged in
+[2023.05.31-09.34.06:779][484]PIE: Play in editor total start time 0,13 seconds.
+[2023.05.31-09.34.22:040][ 15]LogDerivedDataCache: C:/Users/mbassa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.209 and deleted 0 files with total size 0 MiB. Scanned 9674 files in 9592 folders with total size 1020 MiB.
+[2023.05.31-09.35.30:408][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.35.30:408][138]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.35.30:409][138]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.35.30:409][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.35.30:434][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-09.35.30:442][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.35.30:505][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-09.35.30:506][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.31-09.35.30:509][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.31-09.35.30:515][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.35.30:519][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.31-09.35.30:555][139]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.05.31-09.36.13:801][420]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.36.13:801][420]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.36.39:980][628]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.36.39:980][628]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.38.25:350][384]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.38.25:350][384]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.39.08:946][411]LogEditorTransaction: Undo Changed Anchors
+[2023.05.31-09.39.09:199][413]LogEditorTransaction: Undo Changed Anchors
+[2023.05.31-09.39.09:989][432]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.05.31-09.39.10:420][443]LogEditorTransaction: Undo Resize Widget
+[2023.05.31-09.39.10:745][451]LogEditorTransaction: Undo Edit Size To Content
+[2023.05.31-09.39.11:199][463]LogEditorTransaction: Undo Resize Widget
+[2023.05.31-09.39.11:697][476]LogEditorTransaction: Undo Resize Widget
+[2023.05.31-09.39.12:120][487]LogEditorTransaction: Undo Edit Size To Content
+[2023.05.31-09.39.12:604][499]LogEditorTransaction: Undo Move Widgets
+[2023.05.31-09.39.13:031][503]LogEditorTransaction: Undo Add Widget
+[2023.05.31-09.39.14:075][531]LogEditorTransaction: Redo Add Widget
+[2023.05.31-09.39.37:809][441]BlueprintLog: New page: Compile UserInterface
+[2023.05.31-09.39.37:958][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.05.31-09.39.38:637][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.39.38:780][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.05.31-09.39.38:845][461]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.05.31-09.39.38:847][461]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterface774F388940501634F534ABA15ADA133F.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.05.31-09.39.38:877][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 3.56 sec)
+[2023.05.31-09.39.38:891][461]AssetCheck: New page: Asset Save: UserInterface
+[2023.05.31-09.39.38:891][461]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.41.54:383][229]BlueprintLog: New page: Compile UserInterface
+[2023.05.31-09.41.54:512][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.05.31-09.41.55:170][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.41.55:292][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.05.31-09.41.55:353][249]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.05.31-09.41.55:356][249]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterfaceE180FF854D166440FD1D32BE78D9BFF0.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.05.31-09.41.55:386][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 3.78 sec)
+[2023.05.31-09.41.55:393][249]AssetCheck: New page: Asset Save: UserInterface
+[2023.05.31-09.41.55:394][249]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.41.57:621][321]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-09.41.57:643][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-09.41.57:643][321]PIE: New page: PIE session: Bag_Bgt (31 mei 2023 13:41:57)
+[2023.05.31-09.41.57:643][321]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.41.57:652][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009112s)
+[2023.05.31-09.41.57:652][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.009163s)
+[2023.05.31-09.41.57:652][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.41.57:653][321]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.31-09.41.57:653][321]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2023.05.31-09.41.57:729][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.05.31-09.41.57:736][321]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.31-09.41.57:736][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-09.41.57:736][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-09.41.57:736][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-09.41.57:736][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-09.41.57:736][321]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-09.41.57:736][321]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-09.41.57:736][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-09.41.57:736][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-09.41.57:737][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-09.41.57:737][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-09.41.57:737][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-09.41.57:740][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-09.41.57:761][321]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.31-09.41.57:762][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-09.41.57:762][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-09.41.57:762][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-09.41.57:764][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.05.31-09.41.57:764][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.05.31-09.41.57:767][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.05.31-09.41.57:767][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.05.31-09.41.57:767][321]LogInit: FAudioDevice initialized.
+[2023.05.31-09.41.57:767][321]LogAudio: Display: Audio Device (ID: 11) registered with world 'Bag_Bgt'.
+[2023.05.31-09.41.57:771][321]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.31-09.41.57:772][321]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.31-11.41.57
+[2023.05.31-09.41.57:773][321]LogWorld: Bringing up level for play took: 0.001124
+[2023.05.31-09.41.57:775][321]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.05.31-09.41.57:781][321]PIE: Server logged in
+[2023.05.31-09.41.57:782][321]PIE: Play in editor total start time 0,14 seconds.
+[2023.05.31-09.41.59:566][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.41.59:566][379]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.41.59:567][379]LogWorld: UWorld::CleanupWorld for Bag_Bgt, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-09.41.59:567][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.41.59:580][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-09.41.59:588][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-09.41.59:654][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-09.41.59:655][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.31-09.41.59:657][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.31-09.41.59:664][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-09.41.59:668][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.31-09.41.59:710][380]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.05.31-09.42.08:948][723]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.42.08:948][723]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.31-09.42.31:486][857]BlueprintLog: New page: Compile UserInterface
+[2023.05.31-09.42.31:611][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.31-09.42.32:190][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-09.42.32:329][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserInterface" FILE="../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset" SILENT=true
+[2023.05.31-09.42.32:394][873]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2023.05.31-09.42.32:397][873]LogSavePackage: Moving '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Saved/UserInterface1CDA65174A996C2AF3E733A45C384FD1.tmp' to '../../../../../../Users/mbassa/Git/3DGeoTrace/Prototype/Content/UI/UserInterface.uasset'
+[2023.05.31-09.42.32:426][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 4.02 sec)
+[2023.05.31-09.42.32:434][873]AssetCheck: New page: Asset Save: UserInterface
+[2023.05.31-09.42.32:434][873]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2023.05.31-09.42.33:239][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.31-09.42.33:260][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-09.42.33:260][899]PIE: New page: PIE session: Bag_Bgt (31 mei 2023 13:42:33)
+[2023.05.31-09.42.33:260][899]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Bag_Bgt
+[2023.05.31-09.42.33:269][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008539s)
+[2023.05.31-09.42.33:269][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bag_Bgt.Bag_Bgt to /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt (0.008579s)
+[2023.05.31-09.42.33:269][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-09.42.33:270][899]LogAIModule: Creating AISystem for world Bag_Bgt
+[2023.05.31-09.42.33:270][899]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2023.05.31-09.42.33:341][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.31-09.42.33:346][899]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.31-09.42.33:346][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-09.42.33:346][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-09.42.33:346][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-09.42.33:346][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-09.42.33:346][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.31-09.42.33:346][899]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.31-09.42.33:346][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.31-09.42.33:346][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-09.42.33:347][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-09.42.33:347][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-09.42.33:347][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-09.42.33:350][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.31-09.42.33:372][899]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2023.05.31-09.42.33:372][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-09.42.33:372][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-09.42.33:372][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-09.42.33:373][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.05.31-09.42.33:373][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.05.31-09.42.33:375][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.05.31-09.42.33:375][899]LogInit: FAudioDevice initialized.
+[2023.05.31-09.42.33:375][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.05.31-09.42.33:375][899]LogAudio: Display: Audio Device (ID: 12) registered with world 'Bag_Bgt'.
+[2023.05.31-09.42.33:380][899]LogLoad: Game class is 'NewGameMode_C'
+[2023.05.31-09.42.33:381][899]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Bag_Bgt.Bag_Bgt up for play (max tick rate 60) at 2023.05.31-11.42.33
+[2023.05.31-09.42.33:381][899]LogWorld: Bringing up level for play took: 0.001413
+[2023.05.31-09.42.33:384][899]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.05.31-09.42.33:390][899]PIE: Server logged in
+[2023.05.31-09.42.33:391][899]PIE: Play in editor total start time 0,131 seconds.
