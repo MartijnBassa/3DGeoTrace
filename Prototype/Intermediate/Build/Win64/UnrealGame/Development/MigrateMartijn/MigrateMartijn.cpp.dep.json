@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mbassa\\git\\3dgeotrace\\prototype\\intermediate\\source\\migratemartijn.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mbassa\\git\\3dgeotrace\\prototype\\intermediate\\build\\win64\\migratemartijn\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\mbassa\\git\\3dgeotrace\\prototype\\intermediate\\build\\win64\\unrealgame\\development\\migratemartijn\\definitions.migratemartijn.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
