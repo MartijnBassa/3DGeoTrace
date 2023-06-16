@@ -7,7 +7,9 @@
 			"files": [
 				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Blueprints/BP_SplineLayoutTool.uasset",
 				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/GameModes/Player_Pawn.uasset",
-				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap"
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/Levels/Bag_Bgt.umap",
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/UI/InstanciatedInsightObjectIcon.uasset",
+				"I:/Unreal Engine/Projects/3DGeoTrace/Prototype/Content/UI/Icons/river.uasset"
 			]
 		}
 	]
